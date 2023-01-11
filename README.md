@@ -10,9 +10,10 @@
 ## Features 
 * Simply Login and SignUp and Login with Google
 * Once login completed We can take quiz that quizzes fetch from firebase.
-* This contains 2 modules
-* 1) User module:- User can take quiz and they also ranked in leaderboard.
-* 2) Admin module:- Admin can add new quiz and they can also delete quiz.
+** This contains 2 modules
+1) User module:- User can take quiz and they also ranked in leaderboard.
+
+2) Admin module:- Admin can add new quiz and they can also delete quiz.
 * This App contains leaderboard.
 * In home screen user previous score is shown.
 
