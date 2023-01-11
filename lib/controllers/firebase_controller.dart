@@ -8,7 +8,7 @@ class FirebaseController extends GetxController {
   List<dynamic> quizez20 = [];
   List<dynamic> learderScores = [];
   var filteredList = [];
-  var quiz_limit = 3;
+  var quiz_limit = 15;
 
   Future<void> filter(search) async {
     filteredList =
