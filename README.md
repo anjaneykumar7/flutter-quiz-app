@@ -13,15 +13,13 @@
 * This contains 2 modules
 * 1) User module:- User can take quiz and they also ranked in leaderboard.
 * 2) Admin module:- Admin can add new quiz and they can also delete quiz.
-
 * This App contains leaderboard.
 * In home screen user previous score is shown.
-* 
+
 
 
 
 - [Demo Video](https://youtu.be/GfUyk2mvJaY)
-- [App Link](https://github.com/anjaneykumar7/flutter-quiz-app/master/main/app-release.apk)
 
 
 
