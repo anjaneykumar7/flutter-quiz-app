@@ -1,0 +1,5002 @@
+[
+    {
+        "_id": 1,
+        "answer": 4,
+        "option1": "Lal Bahadur Shastri",
+        "option2": "Sardar Vallabhbhai Patel",
+        "option3": "Subhash Chandra Bose",
+        "option4": "Pt. Jawaharlal Nehru",
+        "question": "Who was the first Prime Minister of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 2,
+        "answer": 2,
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Kolkata",
+        "option4": "Hyderabad",
+        "question": "Which city is the capital of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 3,
+        "answer": 1,
+        "option1": "Rabindranath Tagore",
+        "option2": "Mohammad Iqbal",
+        "option3": "Mahatma Gandhi",
+        "option4": "B.C. Chatterjee",
+        "question": "Who wrote the national anthem of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 4,
+        "answer": 4,
+        "option1": "Islam",
+        "option2": "Christianity",
+        "option3": "Buddhism",
+        "option4": "Hinduism",
+        "question": "Which religion has the most followers in India?",
+        "set_id": 1
+    },
+    {
+        "_id": 5,
+        "answer": 3,
+        "option1": "Deer",
+        "option2": "Crocodile",
+        "option3": "Bengal Tiger",
+        "option4": "Lion",
+        "question": "What is the national animal of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 6,
+        "answer": 2,
+        "option1": "Tripura",
+        "option2": "Bangladesh",
+        "option3": "Assam",
+        "option4": "Sikkim",
+        "question": "Which of these is not a state of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 7,
+        "answer": 1,
+        "option1": "Ganga",
+        "option2": "Godavari",
+        "option3": "Indus",
+        "option4": "Bramhaputra",
+        "question": "Which is the longest river in India?",
+        "set_id": 1
+    },
+    {
+        "_id": 8,
+        "answer": 4,
+        "option1": "Varanasi",
+        "option2": "Lucknow",
+        "option3": "Delhi",
+        "option4": "Agra",
+        "question": "Which city is home to the Taj Mahal?",
+        "set_id": 1
+    },
+    {
+        "_id": 9,
+        "answer": 3,
+        "option1": "Pakistan",
+        "option2": "Nepal",
+        "option3": "Indonesia",
+        "option4": "Afghanisthan",
+        "question": "Which of these is not a neigbouring country of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 10,
+        "answer": 2,
+        "option1": "12th February",
+        "option2": "26th January",
+        "option3": "14th April",
+        "option4": "6th May",
+        "question": "On which day is Republic Day celebrated in India?",
+        "set_id": 1
+    },
+    {
+        "_id": 11,
+        "answer": 1,
+        "option1": "Mumbai",
+        "option2": "Hyderabad",
+        "option3": "Bengaluru",
+        "option4": "Chennai",
+        "question": "Which city is the financial capital of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 12,
+        "answer": 2,
+        "option1": "1948",
+        "option2": "1947",
+        "option3": "1951",
+        "option4": "1946",
+        "question": "In which year did India gain independence from the British?",
+        "set_id": 1
+    },
+    {
+        "_id": 13,
+        "answer": 4,
+        "option1": "Marigold",
+        "option2": "Rose",
+        "option3": "Sunflower",
+        "option4": "Lotus",
+        "question": "What is the national flower of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 14,
+        "answer": 3,
+        "option1": "Indira Gandhi",
+        "option2": "Sarojini Naidu",
+        "option3": "Pratibha Patil",
+        "option4": "Sonia Gandhi",
+        "question": "Who was the first woman President of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 15,
+        "answer": 4,
+        "option1": "Hindi",
+        "option2": "Tamil",
+        "option3": "Urdu",
+        "option4": "None of the Above",
+        "question": "What is the national language of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 16,
+        "answer": 1,
+        "option1": "Yuvraj Singh",
+        "option2": "M.S. Dhoni",
+        "option3": "Virat Kohli",
+        "option4": "Ravindra Jadeja",
+        "question": "Who smashed 6 sixes in an over at the 2007 T20 Cricket World Cup?",
+        "set_id": 1
+    },
+    {
+        "_id": 17,
+        "answer": 2,
+        "option1": "Sparrow",
+        "option2": "Peacock",
+        "option3": "Woodpecker",
+        "option4": "Swan",
+        "question": "Which bird is the national bird of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 18,
+        "answer": 3,
+        "option1": "Mother India",
+        "option2": "Gandhi",
+        "option3": "Slumdog Millionaire",
+        "option4": "Lagaan",
+        "question": "Which film, set in India, won 8 Oscars?",
+        "set_id": 1
+    },
+    {
+        "_id": 19,
+        "answer": 4,
+        "option1": "Kalidas",
+        "option2": "Chanakya",
+        "option3": "Kalhana",
+        "option4": "Valmiki",
+        "question": "Who wrote the Ramayana?",
+        "set_id": 1
+    },
+    {
+        "_id": 20,
+        "answer": 2,
+        "option1": "Morarji Desai",
+        "option2": "Dr. Rajendra Prasad",
+        "option3": "Zail Singh",
+        "option4": "Zakir Husain",
+        "question": "Who was the first President of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 21,
+        "answer": 1,
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Kolkata",
+        "option4": "Hyderabad",
+        "question": "Which city is the most populated city in India?",
+        "set_id": 1
+    },
+    {
+        "_id": 22,
+        "answer": 2,
+        "option1": "16",
+        "option2": "18",
+        "option3": "21",
+        "option4": "25",
+        "question": "What is the minimum age for voting in India?",
+        "set_id": 1
+    },
+    {
+        "_id": 23,
+        "answer": 1,
+        "option1": "Bramhaputra",
+        "option2": "Narmada",
+        "option3": "Kaveri",
+        "option4": "Yamuna",
+        "question": "Which of the following rivers does not originate in India?",
+        "set_id": 1
+    },
+    {
+        "_id": 24,
+        "answer": 4,
+        "option1": "Hockey",
+        "option2": "Cricket",
+        "option3": "Kabaddi",
+        "option4": "None of the Above",
+        "question": "What is the national sport of India?",
+        "set_id": 1
+    },
+    {
+        "_id": 25,
+        "answer": 2,
+        "option1": "New Delhi",
+        "option2": "Mumbai",
+        "option3": "Pune",
+        "option4": "Kolkata",
+        "question": "In which Indian city is Asia's largest slum located?",
+        "set_id": 1
+    },
+    {
+        "_id": 26,
+        "answer": 3,
+        "option1": "Humayun",
+        "option2": "Shahjahan",
+        "option3": "Akbar",
+        "option4": "Jahangir",
+        "question": "Tansen was a famous musician in whose court?",
+        "set_id": 2
+    },
+    {
+        "_id": 27,
+        "answer": 2,
+        "option1": "Equator",
+        "option2": "Tropic of Cancer",
+        "option3": "Tropic of Capricorn",
+        "option4": "None of the Above",
+        "question": "Which latitude passes through India?",
+        "set_id": 2
+    },
+    {
+        "_id": 28,
+        "answer": 3,
+        "option1": "26th February",
+        "option2": "14th March",
+        "option3": "15th August",
+        "option4": "12th September",
+        "question": "On which day does India celebrate Independence Day?",
+        "set_id": 2
+    },
+    {
+        "_id": 29,
+        "answer": 2,
+        "option1": "Pune",
+        "option2": "Mumbai",
+        "option3": "New Delhi",
+        "option4": "Kolkata",
+        "question": "Which city is home to the Bollywood film industry?",
+        "set_id": 2
+    },
+    {
+        "_id": 30,
+        "answer": 1,
+        "option1": "Chess",
+        "option2": "Cricket",
+        "option3": "Hockey",
+        "option4": "Golf",
+        "question": "Which sport is Vishwanathan Anand famous for playing?",
+        "set_id": 2
+    },
+    {
+        "_id": 31,
+        "answer": 4,
+        "option1": "Himachal Pradesh",
+        "option2": "Haryana",
+        "option3": "Uttar Pradesh",
+        "option4": "Maharashtra",
+        "question": "Which of the following states is not located in North India?",
+        "set_id": 2
+    },
+    {
+        "_id": 32,
+        "answer": 3,
+        "option1": "Afghanisthan",
+        "option2": "Maldives",
+        "option3": "Sri Lanka",
+        "option4": "Pakistan",
+        "question": "The Palk Strait separates India from which country?",
+        "set_id": 2
+    },
+    {
+        "_id": 33,
+        "answer": 2,
+        "option1": "Nepal",
+        "option2": "Bangladesh",
+        "option3": "Bhutan",
+        "option4": "Burma",
+        "question": "Which country was formed after the Indo-Pak war of 1971?",
+        "set_id": 2
+    },
+    {
+        "_id": 34,
+        "answer": 1,
+        "option1": "M.S.Dhoni",
+        "option2": "Virat Kohli",
+        "option3": "Yuvraj Singh",
+        "option4": "Sourav Ganguly",
+        "question": "Who was the Captain of the Indian Cricket Team at the 2011 World Cup?",
+        "set_id": 2
+    },
+    {
+        "_id": 35,
+        "answer": 4,
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Hyderabad",
+        "option4": "Bengaluru",
+        "question": "Which city is known as the Silicon Valley of India?",
+        "set_id": 2
+    },
+    {
+        "_id": 36,
+        "answer": 3,
+        "option1": "S.C. Bose",
+        "option2": "Bhagat Singh",
+        "option3": "Mahatma Gandhi",
+        "option4": "Lal Bahadur Shastri",
+        "question": "Who started the Quit India movement?",
+        "set_id": 2
+    },
+    {
+        "_id": 37,
+        "answer": 1,
+        "option1": "Amritsar",
+        "option2": "Varanasi",
+        "option3": "Chandigarh",
+        "option4": "Jalandhar",
+        "question": "In which city is the famous Golden Temple located?",
+        "set_id": 2
+    },
+    {
+        "_id": 38,
+        "answer": 2,
+        "option1": "Kaveri",
+        "option2": "Godavari",
+        "option3": "Narmada",
+        "option4": "Tapi",
+        "question": "Which river is also known as the Ganga of South India?",
+        "set_id": 2
+    },
+    {
+        "_id": 39,
+        "answer": 1,
+        "option1": "5 years",
+        "option2": "7 years",
+        "option3": "4 years",
+        "option4": "3 years",
+        "question": "The members of Lok Sabha hold office for a term of",
+        "set_id": 2
+    },
+    {
+        "_id": 40,
+        "answer": 3,
+        "option1": "New Delhi",
+        "option2": "Bengaluru",
+        "option3": "Mumbai",
+        "option4": "Hyderabad",
+        "question": "In which city is the National Stock Exchange located?",
+        "set_id": 2
+    },
+    {
+        "_id": 41,
+        "answer": 2,
+        "option1": "Bihar",
+        "option2": "West Bengal",
+        "option3": "Maharashtra",
+        "option4": "Himachal Pradesh",
+        "question": "The Sundarbans are found in which part of India?",
+        "set_id": 2
+    },
+    {
+        "_id": 42,
+        "answer": 4,
+        "option1": "303",
+        "option2": "307",
+        "option3": "309",
+        "option4": "319",
+        "question": "What is Virender Sehwag's highest individual score in Test Cricket?",
+        "set_id": 2
+    },
+    {
+        "_id": 43,
+        "answer": 2,
+        "option1": "Sri Lanka",
+        "option2": "Myanmar",
+        "option3": "Bangladesh",
+        "option4": "Pakistan",
+        "question": "Which of these countries is closest to the Andaman Islands?",
+        "set_id": 2
+    },
+    {
+        "_id": 44,
+        "answer": 4,
+        "option1": "Sarojini Naidu",
+        "option2": "Rabindranath Tagore",
+        "option3": "B.C.Chatterjee",
+        "option4": "Mohammad Iqbal",
+        "question": "Who composed the famous song- Saare Jahan Se Achha?",
+        "set_id": 2
+    },
+    {
+        "_id": 45,
+        "answer": 1,
+        "option1": "Guru Nanak",
+        "option2": "Guru Gobind Singh",
+        "option3": "Guru Angad",
+        "option4": "Guru Amar Das",
+        "question": "Who founded the religion of Sikhism?",
+        "set_id": 2
+    },
+    {
+        "_id": 46,
+        "answer": 3,
+        "option1": "Chief Justice",
+        "option2": "Prime Minister",
+        "option3": "President",
+        "option4": "Speaker",
+        "question": "Who is referred to as the first citizen of India?",
+        "set_id": 2
+    },
+    {
+        "_id": 47,
+        "answer": 1,
+        "option1": "Sikkim",
+        "option2": "Assam",
+        "option3": "Bengal",
+        "option4": "Himachal Pradesh",
+        "question": "Which is the least populated state in India?",
+        "set_id": 2
+    },
+    {
+        "_id": 48,
+        "answer": 3,
+        "option1": "New Delhi",
+        "option2": "Pune",
+        "option3": "Kolkata",
+        "option4": "Mumbai",
+        "question": "Which city is known as the cultural capital of India?",
+        "set_id": 2
+    },
+    {
+        "_id": 49,
+        "answer": 1,
+        "option1": "5 years",
+        "option2": "4 years",
+        "option3": "6 years",
+        "option4": "3 years",
+        "question": "The President of India holds office for a term of",
+        "set_id": 2
+    },
+    {
+        "_id": 50,
+        "answer": 2,
+        "option1": "Vishnu",
+        "option2": "Shiva",
+        "option3": "Ganesha",
+        "option4": "Bramha",
+        "question": "Parvati is the wife of which Hindu deity?",
+        "set_id": 2
+    },
+    {
+        "_id": 51,
+        "answer": 4,
+        "option1": "Gujarat",
+        "option2": "Uttarakhand",
+        "option3": "Uttar Pradesh",
+        "option4": "Punjab",
+        "question": "Bhangra is a popular folk dance from which Indian state?",
+        "set_id": 3
+    },
+    {
+        "_id": 52,
+        "answer": 3,
+        "option1": "Kochi",
+        "option2": "New Delhi",
+        "option3": "Mumbai",
+        "option4": "Kolkata",
+        "question": "The Gateway of India is located in which Indian city?",
+        "set_id": 3
+    },
+    {
+        "_id": 53,
+        "answer": 1,
+        "option1": "Bharat Ratna",
+        "option2": "Padma Bhushan",
+        "option3": "Padma Vibhushan",
+        "option4": "Padma Shri",
+        "question": "What is the highest civilian award in India?",
+        "set_id": 3
+    },
+    {
+        "_id": 54,
+        "answer": 2,
+        "option1": "5",
+        "option2": "10",
+        "option3": "8",
+        "option4": "7",
+        "question": "How many avatars is the Hindu deity Vishnu said to have?",
+        "set_id": 3
+    },
+    {
+        "_id": 55,
+        "answer": 3,
+        "option1": "Mohinder Amarnath",
+        "option2": "Navjot Singh Sidhu",
+        "option3": "Kapil Dev",
+        "option4": "Sunil Gavaskar",
+        "question": "Who was the captain of the Indian Cricket Team at the 1983 World Cup?",
+        "set_id": 3
+    },
+    {
+        "_id": 56,
+        "answer": 2,
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Aurangabad",
+        "option4": "Chandigarh",
+        "question": "The war memorial India Gate is located in which city of India?",
+        "set_id": 3
+    },
+    {
+        "_id": 57,
+        "answer": 1,
+        "option1": "12",
+        "option2": "10",
+        "option3": "7",
+        "option4": "9",
+        "question": "The UIDAI Aadhar consists of how many digits?",
+        "set_id": 3
+    },
+    {
+        "_id": 58,
+        "answer": 2,
+        "option1": "Rahul Dravid",
+        "option2": "Sachin Tendulkar",
+        "option3": "Sourav Ganguly",
+        "option4": "Kapil Dev",
+        "question": "Who was the first cricketer to be nominated to the Rajya Sabha?",
+        "set_id": 3
+    },
+    {
+        "_id": 59,
+        "answer": 3,
+        "option1": "Aurangzeb",
+        "option2": "Dara Shukoh",
+        "option3": "Abdul Rahim",
+        "option4": "Murad Bakhsh",
+        "question": "Who among these was not Shahjahans' son?",
+        "set_id": 3
+    },
+    {
+        "_id": 60,
+        "answer": 2,
+        "option1": "Uttarakhand",
+        "option2": "Andhra Pradesh",
+        "option3": "Madhya Pradesh",
+        "option4": "Odisha",
+        "question": "Telugu is a language spoken primarily in which Indian state?",
+        "set_id": 3
+    },
+    {
+        "_id": 61,
+        "answer": 4,
+        "option1": "14 May",
+        "option2": "16 December",
+        "option3": "7 November",
+        "option4": "2 October",
+        "question": "Gandhi Jayanti is celebrated in India on which day?",
+        "set_id": 3
+    },
+    {
+        "_id": 62,
+        "answer": 2,
+        "option1": "Rangat",
+        "option2": "Port Blair",
+        "option3": "Diglipur",
+        "option4": "Arong",
+        "question": "What is the capital of Andaman and Nicobar Islands?",
+        "set_id": 3
+    },
+    {
+        "_id": 63,
+        "answer": 1,
+        "option1": "Uttar Pradesh",
+        "option2": "Bihar",
+        "option3": "Odisha",
+        "option4": "Jharkhand",
+        "question": "Which state has the highest crime rate in India?",
+        "set_id": 3
+    },
+    {
+        "_id": 64,
+        "answer": 2,
+        "option1": "Indira Gandhi",
+        "option2": "Sonia Gandhi",
+        "option3": "Pt. Jawaharlal Nehru",
+        "option4": "Sheila Dikshit",
+        "question": "Who is the longest serving President of the Indian National Congress?",
+        "set_id": 3
+    },
+    {
+        "_id": 65,
+        "answer": 4,
+        "option1": "Bhima",
+        "option2": "Nakula",
+        "option3": "Yudishthira",
+        "option4": "Duryodhana",
+        "question": "In the Mahabharata, who among these was not Draupadi's husband?",
+        "set_id": 3
+    },
+    {
+        "_id": 66,
+        "answer": 3,
+        "option1": "Shahjahan",
+        "option2": "Humayun",
+        "option3": "Aurangzeb",
+        "option4": "Jahangir",
+        "question": "Which Mughal ruler placed his own father under house arrest?",
+        "set_id": 3
+    },
+    {
+        "_id": 67,
+        "answer": 4,
+        "option1": "Morarji Desai",
+        "option2": "H.D.Deve Gowda",
+        "option3": "Sanjay Gandhi",
+        "option4": "Rajiv Gandhi",
+        "question": "Who was the youngest Prime Minister of India?",
+        "set_id": 3
+    },
+    {
+        "_id": 68,
+        "answer": 2,
+        "option1": "240",
+        "option2": "245",
+        "option3": "250",
+        "option4": "255",
+        "question": "What is the maximum strength of the Rajya Sabha?",
+        "set_id": 3
+    },
+    {
+        "_id": 69,
+        "answer": 1,
+        "option1": "Western Ghats",
+        "option2": "Eastern Ghats",
+        "option3": "Nilgiri Hills",
+        "option4": "Himalayas",
+        "question": "The Konkan Railway passes through which mountain range?",
+        "set_id": 3
+    },
+    {
+        "_id": 70,
+        "answer": 4,
+        "option1": "189",
+        "option2": "194",
+        "option3": "197",
+        "option4": "200",
+        "question": "What is Sachin Tendulkar's highest recorded score in ODIs?",
+        "set_id": 3
+    },
+    {
+        "_id": 71,
+        "answer": 2,
+        "option1": "12",
+        "option2": "10",
+        "option3": "8",
+        "option4": "6",
+        "question": "How many characters are there on a PAN card?",
+        "set_id": 3
+    },
+    {
+        "_id": 72,
+        "answer": 4,
+        "option1": "Rajasthan",
+        "option2": "Madhya Pradesh",
+        "option3": "Jharkhand",
+        "option4": "Uttar Pradesh",
+        "question": "Which state in India has the largest Hindi speaking population?",
+        "set_id": 3
+    },
+    {
+        "_id": 73,
+        "answer": 3,
+        "option1": "25",
+        "option2": "50",
+        "option3": "100",
+        "option4": "10",
+        "question": "In the Mahabharata, how many sons was Dhrutarashtra said to have?",
+        "set_id": 3
+    },
+    {
+        "_id": 74,
+        "answer": 1,
+        "option1": "Karnataka",
+        "option2": "Andhra Pradesh",
+        "option3": "Kerala",
+        "option4": "Maharashtra",
+        "question": "Which state is the first Digital State of India?",
+        "set_id": 3
+    },
+    {
+        "_id": 75,
+        "answer": 4,
+        "option1": "Manmohan Singh",
+        "option2": "P.V. Narasimha Rao",
+        "option3": "Indira Gandhi",
+        "option4": "Pt. Jawaharlal Nehru",
+        "question": "Who was the longest serving Prime Minister of India?",
+        "set_id": 3
+    },
+    {
+        "_id": 76,
+        "answer": 2,
+        "option1": "Tansen",
+        "option2": "Tulsidas",
+        "option3": "Birbal",
+        "option4": "Todar Mal",
+        "question": "Who among these was not one of the Nine Jewels of Akbar's court?",
+        "set_id": 4
+    },
+    {
+        "_id": 77,
+        "answer": 4,
+        "option1": "Delhi",
+        "option2": "Puducherry",
+        "option3": "Daman and Diu",
+        "option4": "Lakshadweep",
+        "question": "Which Union Territory in India has the highest literacy rate?",
+        "set_id": 4
+    },
+    {
+        "_id": 78,
+        "answer": 1,
+        "option1": "Indus",
+        "option2": "Bramhaputra",
+        "option3": "Ganga",
+        "option4": "Yamuna",
+        "question": "Which is the longest river that flows through India?",
+        "set_id": 4
+    },
+    {
+        "_id": 79,
+        "answer": 2,
+        "option1": "Uttar Pradesh",
+        "option2": "Himachal Pradesh",
+        "option3": "Uttarakhand",
+        "option4": "Rajasthan",
+        "question": "The Rohtang Pass is located in which state of India?",
+        "set_id": 4
+    },
+    {
+        "_id": 80,
+        "answer": 4,
+        "option1": "548",
+        "option2": "550",
+        "option3": "545",
+        "option4": "552",
+        "question": "What is the maximum strength of the Lok Sabha?",
+        "set_id": 4
+    },
+    {
+        "_id": 81,
+        "answer": 2,
+        "option1": "Jahangir",
+        "option2": "Shahjahan",
+        "option3": "Aurangzeb",
+        "option4": "Akbar",
+        "question": "Mumtaz Mahal was the queen of which Mughal emperor?",
+        "set_id": 4
+    },
+    {
+        "_id": 82,
+        "answer": 1,
+        "option1": "Gandhinagar",
+        "option2": "Ahmedabad",
+        "option3": "Rajkot",
+        "option4": "Bhuj",
+        "question": "Which city is the capital of Gujarat?",
+        "set_id": 4
+    },
+    {
+        "_id": 83,
+        "answer": 3,
+        "option1": "Telugu",
+        "option2": "Malayalam",
+        "option3": "Tamil",
+        "option4": "Kannada",
+        "question": "Which is the oldest spoken language in South India?",
+        "set_id": 4
+    },
+    {
+        "_id": 84,
+        "answer": 1,
+        "option1": "Maharashtra",
+        "option2": "Karnataka",
+        "option3": "Uttarakhand",
+        "option4": "Uttar Pradesh",
+        "question": "In which state was the first Aadhar card issued?",
+        "set_id": 4
+    },
+    {
+        "_id": 85,
+        "answer": 2,
+        "option1": "Uttar Pradesh",
+        "option2": "Bihar",
+        "option3": "Uttarakhand",
+        "option4": "Jharkhand",
+        "question": "Which state in India has the lowest literacy rate?",
+        "set_id": 4
+    },
+    {
+        "_id": 86,
+        "answer": 3,
+        "option1": "Malwa Plateau",
+        "option2": "Eastern Ghats",
+        "option3": "Western Ghats",
+        "option4": "Himalayas",
+        "question": "Which one of these regions is also known as the Sahyadris?",
+        "set_id": 4
+    },
+    {
+        "_id": 87,
+        "answer": 4,
+        "option1": "Parliament",
+        "option2": "Legislative Assembly",
+        "option3": "Supreme Court",
+        "option4": "President",
+        "question": "Who has the power to remove a Governer of State from office?",
+        "set_id": 4
+    },
+    {
+        "_id": 88,
+        "answer": 2,
+        "option1": "Afghanistan",
+        "option2": "Pakistan",
+        "option3": "China",
+        "option4": "Sri Lanka",
+        "question": "The Radcliffe line exists between India and which country?",
+        "set_id": 4
+    },
+    {
+        "_id": 89,
+        "answer": 3,
+        "option1": "Cricket",
+        "option2": "Kabaddi",
+        "option3": "Hockey",
+        "option4": "Badminton",
+        "question": "Which sport did Dhanraj Pillay play for India?",
+        "set_id": 4
+    },
+    {
+        "_id": 90,
+        "answer": 1,
+        "option1": "Manipur",
+        "option2": "Tripura",
+        "option3": "Assam",
+        "option4": "Mizoram",
+        "question": "Which of the following states does not share a border with Bangladesh?",
+        "set_id": 4
+    },
+    {
+        "_id": 91,
+        "answer": 2,
+        "option1": "Yamuna",
+        "option2": "Godavari",
+        "option3": "Kosi",
+        "option4": "Ramganga",
+        "question": "Which of these rivers is not a tributary of the Ganga?",
+        "set_id": 4
+    },
+    {
+        "_id": 92,
+        "answer": 4,
+        "option1": "Pune",
+        "option2": "Satara",
+        "option3": "Nasik",
+        "option4": "Kanpur",
+        "question": "Which of these is not a city in Maharashtra?",
+        "set_id": 4
+    },
+    {
+        "_id": 93,
+        "answer": 1,
+        "option1": "Chandigarh",
+        "option2": "Chennai",
+        "option3": "Kochi",
+        "option4": "Mumbai",
+        "question": "Which Indian city is the capital of two states?",
+        "set_id": 4
+    },
+    {
+        "_id": 94,
+        "answer": 2,
+        "option1": "4 years",
+        "option2": "6 years",
+        "option3": "5 years",
+        "option4": "3 years",
+        "question": "The members of Rajya Sabha hold office for a term of",
+        "set_id": 4
+    },
+    {
+        "_id": 95,
+        "answer": 4,
+        "option1": "Uttar Pradesh",
+        "option2": "Rajasthan",
+        "option3": "Madhya Pradesh",
+        "option4": "Uttarakhand",
+        "question": "Sanskrit is the official language of which of these states?",
+        "set_id": 4
+    },
+    {
+        "_id": 96,
+        "answer": 2,
+        "option1": "East Bengal FC",
+        "option2": "Mohun Bagan AC",
+        "option3": "Mohammedan SC",
+        "option4": "Mahindra United",
+        "question": "Which is the oldest active football club in India?",
+        "set_id": 4
+    },
+    {
+        "_id": 97,
+        "answer": 1,
+        "option1": "George V",
+        "option2": "Henry VII",
+        "option3": "William IV",
+        "option4": "Edward VIII",
+        "question": "The Gateway of India was built in honor of the visit of which king?",
+        "set_id": 4
+    },
+    {
+        "_id": 98,
+        "answer": 3,
+        "option1": "Coral Sea",
+        "option2": "Black Sea",
+        "option3": "Arabian Sea",
+        "option4": "Red Sea",
+        "question": "Which of these seas can you see while visiting Mumbai?",
+        "set_id": 4
+    },
+    {
+        "_id": 99,
+        "answer": 4,
+        "option1": "PT Usha",
+        "option2": "Kapil Dev",
+        "option3": "Joginder Singh",
+        "option4": "Milkha Singh",
+        "question": "Who is known as the Flying Sikh of India?",
+        "set_id": 4
+    },
+    {
+        "_id": 100,
+        "answer": 1,
+        "option1": "Atal Bihari Vajpayee",
+        "option2": "L.K. Advani",
+        "option3": "Manmohan Singh",
+        "option4": "Rajiv Gandhi",
+        "question": "Who was the 10th Prime Minister of India?",
+        "set_id": 4
+    },
+    {
+        "_id": 101,
+        "answer": 4,
+        "option1": "Australia",
+        "option2": "Bangladesh",
+        "option3": "Sri Lanka",
+        "option4": "Pakistan",
+        "question": "Against which team did Anil Kumble take 10 wickets in a Test match?",
+        "set_id": 5
+    },
+    {
+        "_id": 102,
+        "answer": 2,
+        "option1": "Subhash Chandra Bose",
+        "option2": "Mahatma Gandhi",
+        "option3": "Bhagat Singh",
+        "option4": "Pt. Jawaharlal Nehru",
+        "question": "Which Indian leader said the famous slogan 'Do or Die' ?",
+        "set_id": 5
+    },
+    {
+        "_id": 103,
+        "answer": 1,
+        "option1": "Buddhism",
+        "option2": "Sikhism",
+        "option3": "Hinduism",
+        "option4": "Jainism",
+        "question": "The Dharmachakra symbol is associated with which religion?",
+        "set_id": 5
+    },
+    {
+        "_id": 104,
+        "answer": 3,
+        "option1": "Yamuna",
+        "option2": "Beas",
+        "option3": "Brahmaputra",
+        "option4": "Narmada",
+        "question": "Which river is also known as the Red River of India?",
+        "set_id": 5
+    },
+    {
+        "_id": 105,
+        "answer": 2,
+        "option1": "Jaipur",
+        "option2": "Udaipur",
+        "option3": "Ajmer",
+        "option4": "Bikaner",
+        "question": "Where is the Taj Lake Palace located?",
+        "set_id": 5
+    },
+    {
+        "_id": 106,
+        "answer": 1,
+        "option1": "Lakshadweep",
+        "option2": "Daman and Diu",
+        "option3": "Delhi",
+        "option4": "Puducherry",
+        "question": "Which Union Territory has the lowest crime rate in India?",
+        "set_id": 5
+    },
+    {
+        "_id": 107,
+        "answer": 2,
+        "option1": "1990",
+        "option2": "1991",
+        "option3": "1992",
+        "option4": "1993",
+        "question": "In which year was Rajiv Gandhi assassinated?",
+        "set_id": 5
+    },
+    {
+        "_id": 108,
+        "answer": 1,
+        "option1": "281",
+        "option2": "247",
+        "option3": "293",
+        "option4": "274",
+        "question": "What is V.V.S. Laxman's highest individual score in Test Cricket?",
+        "set_id": 5
+    },
+    {
+        "_id": 109,
+        "answer": 4,
+        "option1": "21",
+        "option2": "27",
+        "option3": "29",
+        "option4": "24",
+        "question": "How many High Courts are there in India?",
+        "set_id": 5
+    },
+    {
+        "_id": 110,
+        "answer": 2,
+        "option1": "Tapi",
+        "option2": "Godavari",
+        "option3": "Yamuna",
+        "option4": "Indus",
+        "question": "Which is the second longest river in India?",
+        "set_id": 5
+    },
+    {
+        "_id": 111,
+        "answer": 3,
+        "option1": "Aurangzeb",
+        "option2": "Akbar",
+        "option3": "Sher Shah Suri",
+        "option4": "Humayun",
+        "question": "Which ruler introduced the Rupee in India?",
+        "set_id": 5
+    },
+    {
+        "_id": 112,
+        "answer": 1,
+        "option1": "Dispur",
+        "option2": "Tezpur",
+        "option3": "Silchar",
+        "option4": "Jorhat",
+        "question": "Which city is the capital of Assam?",
+        "set_id": 5
+    },
+    {
+        "_id": 113,
+        "answer": 4,
+        "option1": "49",
+        "option2": "57",
+        "option3": "54",
+        "option4": "51",
+        "question": "How many centuries did Sachin Tendulkar score in Test Cricket?",
+        "set_id": 5
+    },
+    {
+        "_id": 114,
+        "answer": 1,
+        "option1": "Pune",
+        "option2": "Mumbai",
+        "option3": "Kolkata",
+        "option4": "Chennai",
+        "question": "The Film and Television Institute of India is located in which city?",
+        "set_id": 5
+    },
+    {
+        "_id": 115,
+        "answer": 3,
+        "option1": "Kerala",
+        "option2": "Andhra Pradesh",
+        "option3": "Tamil Nadu",
+        "option4": "Karnataka",
+        "question": "The Gulf of Mannar is located along the coast of which state?",
+        "set_id": 5
+    },
+    {
+        "_id": 116,
+        "answer": 2,
+        "option1": "Goa",
+        "option2": "Puducherry",
+        "option3": "Daman and Diu",
+        "option4": "Lakshadweep",
+        "question": "French is one of the official languages of which Indian union territory?",
+        "set_id": 5
+    },
+    {
+        "_id": 117,
+        "answer": 4,
+        "option1": "Morarji Desai",
+        "option2": "Dr. Rajendra Prasad",
+        "option3": "Sardar Vallabhbhai Patel",
+        "option4": "Lal Bahadur Shastri",
+        "question": "Who was the second Prime Minister of India?",
+        "set_id": 5
+    },
+    {
+        "_id": 118,
+        "answer": 1,
+        "option1": "Godavari",
+        "option2": "Kaveri",
+        "option3": "Krishna",
+        "option4": "Hemavati",
+        "question": "Which is the longest river in South India?",
+        "set_id": 5
+    },
+    {
+        "_id": 119,
+        "answer": 3,
+        "option1": "Jana Gana Mana",
+        "option2": "Saare Jahaan Se Accha",
+        "option3": "Vande Mataram",
+        "option4": "Ye Jo Desh Hai Mera",
+        "question": "What is the national song of India?",
+        "set_id": 5
+    },
+    {
+        "_id": 120,
+        "answer": 4,
+        "option1": "Praful Patel",
+        "option2": "Atal Bihari Vajpayee",
+        "option3": "L.K.Advani",
+        "option4": "Dr. A.P.J. Kalam",
+        "question": "Who became the President of India in 2002?",
+        "set_id": 5
+    },
+    {
+        "_id": 121,
+        "answer": 2,
+        "option1": "Maharashtra",
+        "option2": "Madhya Pradesh",
+        "option3": "Andhra Pradesh",
+        "option4": "Tamil Nadu",
+        "question": "Which of these Indian states is completely landlocked?",
+        "set_id": 5
+    },
+    {
+        "_id": 122,
+        "answer": 1,
+        "option1": "Mohinder Amarnath",
+        "option2": "Sunil Gavaskar",
+        "option3": "Kapil Dev",
+        "option4": "Vivian Richards",
+        "question": "Who was Man of the Match in the final of Cricket World Cup 1983?",
+        "set_id": 5
+    },
+    {
+        "_id": 123,
+        "answer": 4,
+        "option1": "Buddhism",
+        "option2": "Hinduism",
+        "option3": "Jainism",
+        "option4": "Judaism",
+        "question": "Which of the following religions did not originate in India?",
+        "set_id": 5
+    },
+    {
+        "_id": 124,
+        "answer": 3,
+        "option1": "Lord Chelmford",
+        "option2": "Lord John Lawrence",
+        "option3": "Lord Mountbatten",
+        "option4": "Lord Irwin",
+        "question": "Who was the last British Viceroy of India?",
+        "set_id": 5
+    },
+    {
+        "_id": 125,
+        "answer": 1,
+        "option1": "Mahatma Gandhi",
+        "option2": "Bhagat Singh",
+        "option3": "Pt. Jawaharlal Nehru",
+        "option4": "Rabindranath Tagore",
+        "question": "In India, who is known as the Father of the Nation?",
+        "set_id": 5
+    },
+    {
+        "_id": 126,
+        "answer": 2,
+        "option1": "Gujarat",
+        "option2": "Maharashtra",
+        "option3": "Rajasthan",
+        "option4": "Himachal Pradesh",
+        "question": "The Ajanta and Ellora caves are located in which state?",
+        "set_id": 6
+    },
+    {
+        "_id": 127,
+        "answer": 4,
+        "option1": "4",
+        "option2": "5",
+        "option3": "9",
+        "option4": "7",
+        "question": "Mumbai, at one time, was made up of how many islands?",
+        "set_id": 6
+    },
+    {
+        "_id": 128,
+        "answer": 2,
+        "option1": "Sachin Tendulkar",
+        "option2": "Vishwanathan Anand",
+        "option3": "Kapil Dev",
+        "option4": "Dhanraj Pillay",
+        "question": "Who is the first recipient of the Rajiv Gandhi Khel Ratna award?",
+        "set_id": 6
+    },
+    {
+        "_id": 129,
+        "answer": 1,
+        "option1": "16th Century",
+        "option2": "15th Century",
+        "option3": "14th Century",
+        "option4": "17th Century",
+        "question": "In which century did the Portuguese merchants first land in Goa?",
+        "set_id": 6
+    },
+    {
+        "_id": 130,
+        "answer": 4,
+        "option1": "Nuclear",
+        "option2": "Renewable",
+        "option3": "Hydroelectric",
+        "option4": "Thermal",
+        "question": "What is the largest source of power supply in India?",
+        "set_id": 6
+    },
+    {
+        "_id": 131,
+        "answer": 3,
+        "option1": "Maharashtra",
+        "option2": "Karnataka",
+        "option3": "Gujarat",
+        "option4": "Punjab",
+        "question": "Dandia is a popular dance in which state?",
+        "set_id": 6
+    },
+    {
+        "_id": 132,
+        "answer": 1,
+        "option1": "B.R.Ambedkar",
+        "option2": "Pt. Jawaharlal Nehru",
+        "option3": "Lal Bahadur Shastri",
+        "option4": "Dr. Rajendra Prasad",
+        "question": "Who drafted the Constitution of India?",
+        "set_id": 6
+    },
+    {
+        "_id": 133,
+        "answer": 3,
+        "option1": "Bhopal",
+        "option2": "Bengaluru",
+        "option3": "Hyderabad",
+        "option4": "Pune",
+        "question": "The Char Minar monument is located in which city?",
+        "set_id": 6
+    },
+    {
+        "_id": 134,
+        "answer": 1,
+        "option1": "Infosys",
+        "option2": "WIPRO",
+        "option3": "TATA",
+        "option4": "Reliance",
+        "question": "Which is the first Indian company to be listed in NASDAQ?",
+        "set_id": 6
+    },
+    {
+        "_id": 135,
+        "answer": 4,
+        "option1": "Mumbai",
+        "option2": "Amritsar",
+        "option3": "Jalandhar",
+        "option4": "Delhi",
+        "question": "In which city is the Lotus Temple located?",
+        "set_id": 6
+    },
+    {
+        "_id": 136,
+        "answer": 2,
+        "option1": "Tamil Nadu",
+        "option2": "Rajasthan",
+        "option3": "Uttar Pradesh",
+        "option4": "Uttarakhand",
+        "question": "Which of these states is irrigated by the Ganga canal?",
+        "set_id": 6
+    },
+    {
+        "_id": 137,
+        "answer": 3,
+        "option1": "NH 47",
+        "option2": "NH 56",
+        "option3": "NH 44",
+        "option4": "NH 56B",
+        "question": "Which is the longest national highway of India?",
+        "set_id": 6
+    },
+    {
+        "_id": 138,
+        "answer": 1,
+        "option1": "9",
+        "option2": "12",
+        "option3": "5",
+        "option4": "7",
+        "question": "How many coastal states are located in India?",
+        "set_id": 6
+    },
+    {
+        "_id": 139,
+        "answer": 4,
+        "option1": "3rd",
+        "option2": "6th",
+        "option3": "5th",
+        "option4": "7th",
+        "question": "What is India's global rank, in terms of area?",
+        "set_id": 6
+    },
+    {
+        "_id": 140,
+        "answer": 3,
+        "option1": "Urdu",
+        "option2": "Arabic",
+        "option3": "Persian",
+        "option4": "Hindi",
+        "question": "What was the court language of the Mughals?",
+        "set_id": 6
+    },
+    {
+        "_id": 141,
+        "answer": 2,
+        "option1": "54",
+        "option2": "27",
+        "option3": "33",
+        "option4": "42",
+        "question": "Goals scored by Baichung Bhutia for the Indian National Football Team.",
+        "set_id": 6
+    },
+    {
+        "_id": 142,
+        "answer": 3,
+        "option1": "I.K.Gujral",
+        "option2": "Rajiv Gandhi",
+        "option3": "Manmohan Singh",
+        "option4": "Atal Bihari Vajpayee",
+        "question": "Who was the 13th Prime Minister of India?",
+        "set_id": 6
+    },
+    {
+        "_id": 143,
+        "answer": 2,
+        "option1": "1941",
+        "option2": "1942",
+        "option3": "1939",
+        "option4": "1945",
+        "question": "In which year was the Indian National Army formed?",
+        "set_id": 6
+    },
+    {
+        "_id": 144,
+        "answer": 3,
+        "option1": "Dudhsagar Falls",
+        "option2": "Kunchikal Falls",
+        "option3": "Vajrai Falls",
+        "option4": "Jog Falls",
+        "question": "Which is the highest waterfall in India?",
+        "set_id": 6
+    },
+    {
+        "_id": 145,
+        "answer": 2,
+        "option1": "Kolkata",
+        "option2": "Bengaluru",
+        "option3": "Mumbai",
+        "option4": "Pune",
+        "question": "Which city in India is also known as the Garden City?",
+        "set_id": 6
+    },
+    {
+        "_id": 146,
+        "answer": 1,
+        "option1": "4th",
+        "option2": "2nd",
+        "option3": "3rd",
+        "option4": "1st",
+        "question": "In which place did Milkha Singh finish at the 1960 Olympics?",
+        "set_id": 6
+    },
+    {
+        "_id": 147,
+        "answer": 4,
+        "option1": "Shahjahan",
+        "option2": "Aurangzeb",
+        "option3": "Akbar",
+        "option4": "Jahangir",
+        "question": "Which Mughal emperor's original name was Salim?",
+        "set_id": 6
+    },
+    {
+        "_id": 148,
+        "answer": 2,
+        "option1": "10 years",
+        "option2": "12 years",
+        "option3": "5 years",
+        "option4": "7 years",
+        "question": "The Kumbh Mela is held once every",
+        "set_id": 6
+    },
+    {
+        "_id": 149,
+        "answer": 3,
+        "option1": "Maharashtra",
+        "option2": "Uttar Pradesh",
+        "option3": "Odisha",
+        "option4": "Uttaranchal",
+        "question": "The famous Sun Temple is located in which Indian state?",
+        "set_id": 6
+    },
+    {
+        "_id": 150,
+        "answer": 2,
+        "option1": "Mumbai",
+        "option2": "Kharagpur",
+        "option3": "New Delhi",
+        "option4": "Kolkata",
+        "question": "The first IIT in India is located in which city?",
+        "set_id": 6
+    },
+    {
+        "_id": 151,
+        "answer": 4,
+        "option1": "Pakistan",
+        "option2": "Bhutan",
+        "option3": "Afghanisthan",
+        "option4": "Bangladesh",
+        "question": "The Maitree Express train travels between India and which country?",
+        "set_id": 7
+    },
+    {
+        "_id": 152,
+        "answer": 1,
+        "option1": "New Delhi",
+        "option2": "Kolkata",
+        "option3": "Mumbai",
+        "option4": "Chandigarh",
+        "question": "Where is the Supreme Court headquarters located?",
+        "set_id": 7
+    },
+    {
+        "_id": 153,
+        "answer": 3,
+        "option1": "19 May 2013",
+        "option2": "13 April 2014",
+        "option3": "26 May 2014",
+        "option4": "15 June 2013",
+        "question": "When was Narendra Modi sworn in as PM of India?",
+        "set_id": 7
+    },
+    {
+        "_id": 154,
+        "answer": 2,
+        "option1": "1949",
+        "option2": "1955",
+        "option3": "1953",
+        "option4": "1951",
+        "question": "In which year did Pt. Jawaharlal Nehru receive the Bharat Ratna?",
+        "set_id": 7
+    },
+    {
+        "_id": 155,
+        "answer": 1,
+        "option1": "Karnataka",
+        "option2": "Maharashtra",
+        "option3": "Odisha",
+        "option4": "Madhya Pradesh",
+        "question": "Which state government confers the Basava Puraskara award?",
+        "set_id": 7
+    },
+    {
+        "_id": 156,
+        "answer": 4,
+        "option1": "Vembanad Lake",
+        "option2": "Dal Lake",
+        "option3": "Wular Lake",
+        "option4": "Lonar Lake",
+        "question": "Which of these lakes was formed by a meteor 52,000 years ago?",
+        "set_id": 7
+    },
+    {
+        "_id": 157,
+        "answer": 2,
+        "option1": "Surat",
+        "option2": "Srinagar",
+        "option3": "Kolkata",
+        "option4": "Varanasi",
+        "question": "In which city is India's only floating post office located?",
+        "set_id": 7
+    },
+    {
+        "_id": 158,
+        "answer": 3,
+        "option1": "Bhakra Dam",
+        "option2": "Mulshi Dam",
+        "option3": "Tehri Dam",
+        "option4": "Sardar Sarovar Dam",
+        "question": "Which among these is the largest dam built in India?",
+        "set_id": 7
+    },
+    {
+        "_id": 159,
+        "answer": 1,
+        "option1": "Odisha",
+        "option2": "Maharashtra",
+        "option3": "Uttarakhand",
+        "option4": "Jharkhand",
+        "question": "The Black Pagoda is located in which Indian state?",
+        "set_id": 7
+    },
+    {
+        "_id": 160,
+        "answer": 2,
+        "option1": "88",
+        "option2": "93",
+        "option3": "91",
+        "option4": "96",
+        "question": "How old was Atal Bihari Vajpayee at the time of his death?",
+        "set_id": 7
+    },
+    {
+        "_id": 161,
+        "answer": 3,
+        "option1": "Kanyakumari",
+        "option2": "Vishakapatnam",
+        "option3": "Indira Point",
+        "option4": "Chennai",
+        "question": "Which is the southermost tip of the Indian territory?",
+        "set_id": 7
+    },
+    {
+        "_id": 162,
+        "answer": 1,
+        "option1": "18,426",
+        "option2": "16,371",
+        "option3": "19,712",
+        "option4": "15,158",
+        "question": "How many runs did Sachin Tendulkar score in ODIs?",
+        "set_id": 7
+    },
+    {
+        "_id": 163,
+        "answer": 3,
+        "option1": "Tamil Nadu",
+        "option2": "Andhra Pradesh",
+        "option3": "Kerala",
+        "option4": "Maharashtra",
+        "question": "The Onam festival is celebrated in which state?",
+        "set_id": 7
+    },
+    {
+        "_id": 164,
+        "answer": 2,
+        "option1": "Nanda Devi",
+        "option2": "Kangchenjunga",
+        "option3": "Everest",
+        "option4": "K2",
+        "question": "Which is the highest mountain peak in India?",
+        "set_id": 7
+    },
+    {
+        "_id": 165,
+        "answer": 1,
+        "option1": "Kerala",
+        "option2": "Goa",
+        "option3": "Maharashtra",
+        "option4": "Himachal Pradesh",
+        "question": "Which state has the highest literacy rate?",
+        "set_id": 7
+    },
+    {
+        "_id": 166,
+        "answer": 3,
+        "option1": "Mumbai",
+        "option2": "Lucknow",
+        "option3": "Delhi",
+        "option4": "Kolkata",
+        "question": "Where is the Indian Railway headquarters located?",
+        "set_id": 7
+    },
+    {
+        "_id": 167,
+        "answer": 4,
+        "option1": "Kerala",
+        "option2": "Madhya Pradesh",
+        "option3": "Rajasthan",
+        "option4": "Tamil Nadu",
+        "question": "Bharatanatyam is a classical dance from which Indian state?",
+        "set_id": 7
+    },
+    {
+        "_id": 168,
+        "answer": 2,
+        "option1": "Maharashtra",
+        "option2": "Rajasthan",
+        "option3": "Uttar Pradesh",
+        "option4": "Madhya Pradesh",
+        "question": "Which Indian state has the largest area?",
+        "set_id": 7
+    },
+    {
+        "_id": 169,
+        "answer": 1,
+        "option1": "Corbett National Park",
+        "option2": "Velvadan National Park",
+        "option3": "Periyar National Park",
+        "option4": "Bandipur National Park",
+        "question": "Which is the first national park established in India?",
+        "set_id": 7
+    },
+    {
+        "_id": 170,
+        "answer": 3,
+        "option1": "Bangladesh",
+        "option2": "Pakistan",
+        "option3": "China",
+        "option4": "Afghanistan",
+        "question": "Which of these neighbouring countries has the largest area?",
+        "set_id": 7
+    },
+    {
+        "_id": 171,
+        "answer": 4,
+        "option1": "Udaipur",
+        "option2": "Ajmer",
+        "option3": "Bikaner",
+        "option4": "Jaipur",
+        "question": "Which Indian city is also known as the Pink City?",
+        "set_id": 7
+    },
+    {
+        "_id": 172,
+        "answer": 3,
+        "option1": "Punjab",
+        "option2": "Sikkim",
+        "option3": "Goa",
+        "option4": "Tripura",
+        "question": "Which is the smallest Indian state in terms of area?",
+        "set_id": 7
+    },
+    {
+        "_id": 173,
+        "answer": 1,
+        "option1": "January 1948",
+        "option2": "May 1947",
+        "option3": "September 1951",
+        "option4": "April 1948",
+        "question": "When was Mahatma Gandhi assassinated?",
+        "set_id": 7
+    },
+    {
+        "_id": 174,
+        "answer": 3,
+        "option1": "Parliament",
+        "option2": "Supreme Court",
+        "option3": "High Courts",
+        "option4": "Election Commission",
+        "question": "Who has the power to decide an election petition?",
+        "set_id": 7
+    },
+    {
+        "_id": 175,
+        "answer": 2,
+        "option1": "27",
+        "option2": "28",
+        "option3": "31",
+        "option4": "26",
+        "question": "How many states are there in India?",
+        "set_id": 7
+    },
+    {
+        "_id": 176,
+        "answer": 3,
+        "option1": "Russia",
+        "option2": "China",
+        "option3": "Iran",
+        "option4": "Brazil",
+        "question": "Which of these countries is the only one with less land area than India?",
+        "set_id": 8
+    },
+    {
+        "_id": 177,
+        "answer": 4,
+        "option1": "Bengaluru",
+        "option2": "Lucknow",
+        "option3": "Kanpur",
+        "option4": "Bhopal",
+        "question": "What is the capital of Madhya Pradesh?",
+        "set_id": 8
+    },
+    {
+        "_id": 178,
+        "answer": 2,
+        "option1": "Amritsar",
+        "option2": "Varanasi",
+        "option3": "Shimla",
+        "option4": "Chennai",
+        "question": "Which of these cities lies on the Ganges river?",
+        "set_id": 8
+    },
+    {
+        "_id": 179,
+        "answer": 1,
+        "option1": "Rajputana",
+        "option2": "United Provinces",
+        "option3": "Madhya Bharat",
+        "option4": "Rajiyana",
+        "question": "What is the former name of Rajasthan?",
+        "set_id": 8
+    },
+    {
+        "_id": 180,
+        "answer": 4,
+        "option1": "Delhi",
+        "option2": "Jodhpur",
+        "option3": "Daulatabad",
+        "option4": "Sikandra",
+        "question": "Where is the tomb of Akbar located?",
+        "set_id": 8
+    },
+    {
+        "_id": 181,
+        "answer": 3,
+        "option1": "Vagator",
+        "option2": "Margao",
+        "option3": "Panaji",
+        "option4": "Candolim",
+        "question": "What is the capital of Goa?",
+        "set_id": 8
+    },
+    {
+        "_id": 182,
+        "answer": 1,
+        "option1": "9",
+        "option2": "7",
+        "option3": "6",
+        "option4": "4",
+        "question": "How many union territories are there in India?",
+        "set_id": 8
+    },
+    {
+        "_id": 183,
+        "answer": 3,
+        "option1": "14,901",
+        "option2": "12,295",
+        "option3": "13,288",
+        "option4": "11,384",
+        "question": "How many total runs did Rahul Dravid score in Test Cricket?",
+        "set_id": 8
+    },
+    {
+        "_id": 184,
+        "answer": 2,
+        "option1": "Fatehpur Sikri",
+        "option2": "Haji Ali Durgah",
+        "option3": "Char Minar",
+        "option4": "Lal Quila",
+        "question": "Which of these monuments is located in the sea?",
+        "set_id": 8
+    },
+    {
+        "_id": 185,
+        "answer": 4,
+        "option1": "Bhaskara",
+        "option2": "INSAT",
+        "option3": "Prithvi",
+        "option4": "Aryabhata",
+        "question": "Which among these is India's first artificial satellite?",
+        "set_id": 8
+    },
+    {
+        "_id": 186,
+        "answer": 3,
+        "option1": "4.5 Million sq. km",
+        "option2": "2.9 Million sq. km",
+        "option3": "3.3 Million sq. km",
+        "option4": "4.2 Million sq. km",
+        "question": "What is India's total area?",
+        "set_id": 8
+    },
+    {
+        "_id": 187,
+        "answer": 4,
+        "option1": "Andhra Pradesh",
+        "option2": "Tamil Nadu",
+        "option3": "Karnataka",
+        "option4": "Kerala",
+        "question": "Which state is known as the Spice Garden of India?",
+        "set_id": 8
+    },
+    {
+        "_id": 188,
+        "answer": 2,
+        "option1": "1983",
+        "option2": "1979",
+        "option3": "1976",
+        "option4": "1981",
+        "question": "In which year did Mother Teresa receive the Nobel Peace Prize?",
+        "set_id": 8
+    },
+    {
+        "_id": 189,
+        "answer": 4,
+        "option1": "Morarji Desai",
+        "option2": "Rajiv Gandhi",
+        "option3": "B.R.Ambedkar",
+        "option4": "Sardar Vallabhbhai Patel",
+        "question": "Who was the first Deputy Prime Minister of India?",
+        "set_id": 8
+    },
+    {
+        "_id": 190,
+        "answer": 3,
+        "option1": "Nasik",
+        "option2": "New Delhi",
+        "option3": "Chennai",
+        "option4": "Kochi",
+        "question": "Which city in India is the first to use municipal waste for power?",
+        "set_id": 8
+    },
+    {
+        "_id": 191,
+        "answer": 2,
+        "option1": "Madhya Pradesh",
+        "option2": "Arunachal Pradesh",
+        "option3": "Bihar",
+        "option4": "Mizoram",
+        "question": "Itanagar is the capital of which Indian state?",
+        "set_id": 8
+    },
+    {
+        "_id": 192,
+        "answer": 1,
+        "option1": "Krishna",
+        "option2": "Godavari",
+        "option3": "Yamuna",
+        "option4": "Kaveri",
+        "question": "The Bhima is a tributary of which river?",
+        "set_id": 8
+    },
+    {
+        "_id": 193,
+        "answer": 4,
+        "option1": "Munnar",
+        "option2": "Surat",
+        "option3": "Madurai",
+        "option4": "Kanyakumari",
+        "question": "Which town in India was previously known as Cape Comorin?",
+        "set_id": 8
+    },
+    {
+        "_id": 194,
+        "answer": 2,
+        "option1": "1948",
+        "option2": "1945",
+        "option3": "1951",
+        "option4": "1947",
+        "question": "In which year did India become a member of the UN?",
+        "set_id": 8
+    },
+    {
+        "_id": 195,
+        "answer": 1,
+        "option1": "Jaipur",
+        "option2": "Udaipur",
+        "option3": "Nagpur",
+        "option4": "Kanpur",
+        "question": "The Hawa Mahal is located in which city in India?",
+        "set_id": 8
+    },
+    {
+        "_id": 196,
+        "answer": 4,
+        "option1": "Bikaner",
+        "option2": "Ajmer",
+        "option3": "Amritsar",
+        "option4": "Barmer",
+        "question": "The Thar Express to Pakistan starts in India from",
+        "set_id": 8
+    },
+    {
+        "_id": 197,
+        "answer": 3,
+        "option1": "Lucknow",
+        "option2": "Calcutta",
+        "option3": "Bombay",
+        "option4": "Delhi",
+        "question": "In which city did Mahatma Gandhi form Satyagraha Sabha?",
+        "set_id": 8
+    },
+    {
+        "_id": 198,
+        "answer": 1,
+        "option1": "Jatakas",
+        "option2": "Mahabharata",
+        "option3": "Ramayana",
+        "option4": "Panchtantra",
+        "question": "What is depicted in the paintings of Ajanta?",
+        "set_id": 8
+    },
+    {
+        "_id": 199,
+        "answer": 4,
+        "option1": "Panaji",
+        "option2": "Pune",
+        "option3": "Nasik",
+        "option4": "Mumbai",
+        "question": "The Kala Ghoda Arts Festival takes place in which city?",
+        "set_id": 8
+    },
+    {
+        "_id": 200,
+        "answer": 2,
+        "option1": "Ram",
+        "option2": "Jagannath",
+        "option3": "Shiva",
+        "option4": "Krishna",
+        "question": "The Rath Yatra is celebrated in honor of which Hindu deity?",
+        "set_id": 8
+    },
+    {
+        "_id": 201,
+        "answer": 1,
+        "option1": "Onam",
+        "option2": "Magh Bihu",
+        "option3": "Pongal",
+        "option4": "Lohri",
+        "question": "Which of the following is an Indian harvest festival?",
+        "set_id": 9
+    },
+    {
+        "_id": 202,
+        "answer": 3,
+        "option1": "1922",
+        "option2": "1906",
+        "option3": "1911",
+        "option4": "1947",
+        "question": "When was the transfer of the capital from Calcutta to Delhi announced?",
+        "set_id": 9
+    },
+    {
+        "_id": 203,
+        "answer": 4,
+        "option1": "Vandana Shiva",
+        "option2": "Mahatma Gandhi",
+        "option3": "C Subramaniam",
+        "option4": "MS Swaminathan",
+        "question": "Who is known as the father of the Indian Green Revolution?",
+        "set_id": 9
+    },
+    {
+        "_id": 204,
+        "answer": 2,
+        "option1": "Indus",
+        "option2": "Yamuna",
+        "option3": "Ganga",
+        "option4": "Narmada",
+        "question": "The city of Delhi is located along which river?",
+        "set_id": 9
+    },
+    {
+        "_id": 205,
+        "answer": 1,
+        "option1": "Arunachal Pradesh",
+        "option2": "Assam",
+        "option3": "Mizoram",
+        "option4": "Nagaland",
+        "question": "Which is the largest North Eastern state in terms of area?",
+        "set_id": 9
+    },
+    {
+        "_id": 206,
+        "answer": 4,
+        "option1": "Cardamom Hills",
+        "option2": "Palani Hills",
+        "option3": "Anantagiri Hills",
+        "option4": "Nilgiri Hills",
+        "question": "Where do the Eastern Ghats and Western Ghats meet at?",
+        "set_id": 9
+    },
+    {
+        "_id": 207,
+        "answer": 2,
+        "option1": "Maharashtra",
+        "option2": "Rajasthan",
+        "option3": "Gujarat",
+        "option4": "Uttarakhand",
+        "question": "Which among these does not form part of the Narmada basin?",
+        "set_id": 9
+    },
+    {
+        "_id": 208,
+        "answer": 3,
+        "option1": "Pune",
+        "option2": "Nagpur",
+        "option3": "Surat",
+        "option4": "Varanasi",
+        "question": "Which city is known as the Diamond City of India?",
+        "set_id": 9
+    },
+    {
+        "_id": 209,
+        "answer": 1,
+        "option1": "Parsi",
+        "option2": "Sikh",
+        "option3": "Jain",
+        "option4": "Maharashtrian",
+        "question": "The Khordad sal is celebrated by which Indian community?",
+        "set_id": 9
+    },
+    {
+        "_id": 210,
+        "answer": 3,
+        "option1": "Kanpur",
+        "option2": "Bhopal",
+        "option3": "Dehradun",
+        "option4": "Nainital",
+        "question": "Which city is the capital of Uttarakhand?",
+        "set_id": 9
+    },
+    {
+        "_id": 211,
+        "answer": 4,
+        "option1": "18",
+        "option2": "24",
+        "option3": "12",
+        "option4": "36",
+        "question": "How many islands does Lakshadweep comprise of?",
+        "set_id": 9
+    },
+    {
+        "_id": 212,
+        "answer": 1,
+        "option1": "Palani Hills",
+        "option2": "Nilgiri Hills",
+        "option3": "Himalayas",
+        "option4": "Cardamom Hills",
+        "question": "Where is the hill station Kodaikanal located?",
+        "set_id": 9
+    },
+    {
+        "_id": 213,
+        "answer": 4,
+        "option1": "Manmohan Singh",
+        "option2": "I.K.Gujral",
+        "option3": "Rajiv Gandhi",
+        "option4": "P.V.Narasimha Rao",
+        "question": "Who was the ninth Prime Minister of India?",
+        "set_id": 9
+    },
+    {
+        "_id": 214,
+        "answer": 2,
+        "option1": "9",
+        "option2": "11",
+        "option3": "13",
+        "option4": "7",
+        "question": "How many Fundamental Duties are in the Constitution of India?",
+        "set_id": 9
+    },
+    {
+        "_id": 215,
+        "answer": 1,
+        "option1": "1885",
+        "option2": "1863",
+        "option3": "1910",
+        "option4": "1895",
+        "question": "In which year was the Indian National Congress founded?",
+        "set_id": 9
+    },
+    {
+        "_id": 216,
+        "answer": 4,
+        "option1": "Shashi Tharoor",
+        "option2": "Chetan Bhagat",
+        "option3": "Ruskin Bond",
+        "option4": "Arundhati Roy",
+        "question": "The God of Small Things' is the debut novel of which Indian author?",
+        "set_id": 9
+    },
+    {
+        "_id": 217,
+        "answer": 2,
+        "option1": "Yamuna",
+        "option2": "Sutlej",
+        "option3": "Beas",
+        "option4": "Ganga",
+        "question": "Which river in India is also known as the Satadree?",
+        "set_id": 9
+    },
+    {
+        "_id": 218,
+        "answer": 4,
+        "option1": "5",
+        "option2": "6",
+        "option3": "8",
+        "option4": "12",
+        "question": "Akbar divided his empire into how many provinces?",
+        "set_id": 9
+    },
+    {
+        "_id": 219,
+        "answer": 2,
+        "option1": "1994",
+        "option2": "1992",
+        "option3": "1996",
+        "option4": "1990",
+        "question": "In which year was the National Stock Exchange founded?",
+        "set_id": 9
+    },
+    {
+        "_id": 220,
+        "answer": 3,
+        "option1": "Jaipur",
+        "option2": "Bikaner",
+        "option3": "Bhopal",
+        "option4": "Indore",
+        "question": "A tragic gas tragedy took place in which city of India in the year 1984?",
+        "set_id": 9
+    },
+    {
+        "_id": 221,
+        "answer": 4,
+        "option1": "Marathi",
+        "option2": "Hindi",
+        "option3": "Sanskrit",
+        "option4": "Tamil",
+        "question": "Which is the first Indian language to gain Classical Language status?",
+        "set_id": 9
+    },
+    {
+        "_id": 222,
+        "answer": 1,
+        "option1": "Jaipur",
+        "option2": "Udaipur",
+        "option3": "Jalandhar",
+        "option4": "Ajmer",
+        "question": "In which city is the Elephant Festival celebrated annually?",
+        "set_id": 9
+    },
+    {
+        "_id": 223,
+        "answer": 3,
+        "option1": "30",
+        "option2": "40",
+        "option3": "50",
+        "option4": "60",
+        "question": "How many letters are there in the Sanskrit alphabet?",
+        "set_id": 9
+    },
+    {
+        "_id": 224,
+        "answer": 2,
+        "option1": "Tapi",
+        "option2": "Mandovi",
+        "option3": "Narmada",
+        "option4": "Kaveri",
+        "question": "On the bank of which river is Goa located?",
+        "set_id": 9
+    },
+    {
+        "_id": 225,
+        "answer": 4,
+        "option1": "1902",
+        "option2": "1917",
+        "option3": "1911",
+        "option4": "1905",
+        "question": "In which year did the partition of Bengal take place?",
+        "set_id": 9
+    },
+    {
+        "_id": 226,
+        "answer": 3,
+        "option1": "1524",
+        "option2": "1475",
+        "option3": "1498",
+        "option4": "1501",
+        "question": "In which year did Vasco da Gama first come to India?",
+        "set_id": 10
+    },
+    {
+        "_id": 227,
+        "answer": 1,
+        "option1": "Mumbai",
+        "option2": "Pune",
+        "option3": "Kolkata",
+        "option4": "Indore",
+        "question": "The Prithvi Theatre is located in which city of India?",
+        "set_id": 10
+    },
+    {
+        "_id": 228,
+        "answer": 2,
+        "option1": "12",
+        "option2": "6",
+        "option3": "5",
+        "option4": "9",
+        "question": "How many states in India have Legislative Council?",
+        "set_id": 10
+    },
+    {
+        "_id": 229,
+        "answer": 1,
+        "option1": "Pratibha Patil",
+        "option2": "Narendra Modi",
+        "option3": "Manmohan Singh",
+        "option4": "Pranab Mukherjee",
+        "question": "To whom was the first e-passport issued in India?",
+        "set_id": 10
+    },
+    {
+        "_id": 230,
+        "answer": 3,
+        "option1": "Uttarakhand",
+        "option2": "Maharashtra",
+        "option3": "Uttar Pradesh",
+        "option4": "Bihar",
+        "question": "Which state in India uses most of its land for rice cultivation?",
+        "set_id": 10
+    },
+    {
+        "_id": 231,
+        "answer": 4,
+        "option1": "1590",
+        "option2": "1595",
+        "option3": "1605",
+        "option4": "1600",
+        "question": "When was the English East India company formed?",
+        "set_id": 10
+    },
+    {
+        "_id": 232,
+        "answer": 2,
+        "option1": "60 years",
+        "option2": "65 years",
+        "option3": "70 years",
+        "option4": "75 years",
+        "question": "What is the retirement age for Supreme Court judges?",
+        "set_id": 10
+    },
+    {
+        "_id": 233,
+        "answer": 1,
+        "option1": "Palghat Gap",
+        "option2": "Rohtang Pass",
+        "option3": "Mana Pass",
+        "option4": "Jelep La",
+        "question": "Which pass is located at the south of Nilgiri Hills?",
+        "set_id": 10
+    },
+    {
+        "_id": 234,
+        "answer": 3,
+        "option1": "7047",
+        "option2": "10,129",
+        "option3": "8781",
+        "option4": "9328",
+        "question": "How many runs did V.V.S Laxman score in Test Cricket?",
+        "set_id": 10
+    },
+    {
+        "_id": 235,
+        "answer": 4,
+        "option1": "28 August 1939",
+        "option2": "14 August 1948",
+        "option3": "21 August 1951",
+        "option4": "7 August 1941",
+        "question": "When did the Indian poet Rabindranath Tagore's death occur?",
+        "set_id": 10
+    },
+    {
+        "_id": 236,
+        "answer": 3,
+        "option1": "43.67 million sq. km",
+        "option2": "68.41 million sq. km",
+        "option3": "70.56 million sq. km",
+        "option4": "56.92 million sq. km",
+        "question": "How much area does the Indian Ocean cover?",
+        "set_id": 10
+    },
+    {
+        "_id": 237,
+        "answer": 1,
+        "option1": "1982",
+        "option2": "1985",
+        "option3": "1989",
+        "option4": "1991",
+        "question": "In which year was the first Lok Adalat held?",
+        "set_id": 10
+    },
+    {
+        "_id": 238,
+        "answer": 2,
+        "option1": "Kochi",
+        "option2": "Mumbai",
+        "option3": "Vishakapatnam",
+        "option4": "Kolkata",
+        "question": "Elephanta Island is located next to which Indian city?",
+        "set_id": 10
+    },
+    {
+        "_id": 239,
+        "answer": 4,
+        "option1": "Maharashtra",
+        "option2": "Uttar Pradesh",
+        "option3": "Andhra Pradesh",
+        "option4": "Madhya Pradesh",
+        "question": "Which Indian state produces the largest amount of pulses?",
+        "set_id": 10
+    },
+    {
+        "_id": 240,
+        "answer": 3,
+        "option1": "3144 km",
+        "option2": "2791 km",
+        "option3": "3323 km",
+        "option4": "4219 km",
+        "question": "What is the total length of the Indo-Pak border?",
+        "set_id": 10
+    },
+    {
+        "_id": 241,
+        "answer": 2,
+        "option1": "Madhya Pradesh",
+        "option2": "Manipur",
+        "option3": "Arunachal Pradesh",
+        "option4": "Uttarakhand",
+        "question": "In which Indian state is the Sangai Festival celebrated?",
+        "set_id": 10
+    },
+    {
+        "_id": 242,
+        "answer": 3,
+        "option1": "Sarojini Naidu",
+        "option2": "Indira Gandhi",
+        "option3": "Annie Besant",
+        "option4": "Nellie Sengupta",
+        "question": "Who was the first woman President of the Indian National Congress?",
+        "set_id": 10
+    },
+    {
+        "_id": 243,
+        "answer": 1,
+        "option1": "Kolkata",
+        "option2": "Mumbai",
+        "option3": "Pune",
+        "option4": "Delhi",
+        "question": "Fort William is located in which Indian city?",
+        "set_id": 10
+    },
+    {
+        "_id": 244,
+        "answer": 4,
+        "option1": "Amar Ujala",
+        "option2": "Hari Bhoomi",
+        "option3": "The Hitavada",
+        "option4": "Hicky's Bengal Gazette",
+        "question": "The first newspaper to be published in India was",
+        "set_id": 10
+    },
+    {
+        "_id": 245,
+        "answer": 3,
+        "option1": "President",
+        "option2": "Legislative Assembly",
+        "option3": "Supreme Court",
+        "option4": "High Court",
+        "question": "Who is the final authority to interpret the Constitution of India?",
+        "set_id": 10
+    },
+    {
+        "_id": 246,
+        "answer": 2,
+        "option1": "Rajasthan",
+        "option2": "Nagaland",
+        "option3": "Odisha",
+        "option4": "Uttarakhand",
+        "question": "In which Indian state is the Hornbill Festival celebrated?",
+        "set_id": 10
+    },
+    {
+        "_id": 247,
+        "answer": 3,
+        "option1": "Amritsar",
+        "option2": "Jalandhar",
+        "option3": "Ahmedabad",
+        "option4": "Hyderabad",
+        "question": "Which city is known as Manchester of India?",
+        "set_id": 10
+    },
+    {
+        "_id": 248,
+        "answer": 4,
+        "option1": "Mumbai",
+        "option2": "Lucknow",
+        "option3": "Bengaluru",
+        "option4": "Mysore",
+        "question": "Where is the Central Institute of Languages located?",
+        "set_id": 10
+    },
+    {
+        "_id": 249,
+        "answer": 1,
+        "option1": "1975",
+        "option2": "1969",
+        "option3": "1971",
+        "option4": "1979",
+        "question": "In which year did Sikkim become a state of the Indian Union?",
+        "set_id": 10
+    },
+    {
+        "_id": 250,
+        "answer": 4,
+        "option1": "Madras",
+        "option2": "Delhi",
+        "option3": "Calcutta",
+        "option4": "Surat",
+        "question": "The first British Presidency in India was established in which city?",
+        "set_id": 10
+    },
+    {
+        "_id": 251,
+        "answer": 3,
+        "option1": "8430 m",
+        "option2": "7937 m",
+        "option3": "8586 m",
+        "option4": "9491 m",
+        "question": "What is the height of Mt. Kangchenjunga?",
+        "set_id": 11
+    },
+    {
+        "_id": 252,
+        "answer": 2,
+        "option1": "201",
+        "option2": "224",
+        "option3": "175",
+        "option4": "183",
+        "question": "What is M.S.Dhoni's highest recorded score in Test Cricket?",
+        "set_id": 11
+    },
+    {
+        "_id": 253,
+        "answer": 3,
+        "option1": "687 BC",
+        "option2": "549 BC",
+        "option3": "326 BC",
+        "option4": "451 BC",
+        "question": "When did Alexander the Great invade India?",
+        "set_id": 11
+    },
+    {
+        "_id": 254,
+        "answer": 4,
+        "option1": "Chetan Bhagat",
+        "option2": "Ruskin Bond",
+        "option3": "Arundhati Roy",
+        "option4": "R.K.Laxman",
+        "question": "The Tunnel of Time is an autobiography of which Indian author?",
+        "set_id": 11
+    },
+    {
+        "_id": 255,
+        "answer": 1,
+        "option1": "Michael Ferreira",
+        "option2": "Pankaj Advani",
+        "option3": "Geet Sethi",
+        "option4": "Ashok Shandilya",
+        "question": "Who was the first Billiards player to be given the Padma Bhushan?",
+        "set_id": 11
+    },
+    {
+        "_id": 256,
+        "answer": 3,
+        "option1": "15 km",
+        "option2": "60 km",
+        "option3": "30 km",
+        "option4": "45 km",
+        "question": "What is the length of the Gangotri glacier?",
+        "set_id": 11
+    },
+    {
+        "_id": 257,
+        "answer": 2,
+        "option1": "Aurangabad",
+        "option2": "Tarapur",
+        "option3": "Gandhinagar",
+        "option4": "Chennai",
+        "question": "Where is the first atomic station in India located?",
+        "set_id": 11
+    },
+    {
+        "_id": 258,
+        "answer": 1,
+        "option1": "Nagpur",
+        "option2": "Kanpur",
+        "option3": "Nasik",
+        "option4": "Pune",
+        "question": "Which city is also known as the Orange City of India?",
+        "set_id": 11
+    },
+    {
+        "_id": 259,
+        "answer": 4,
+        "option1": "1901",
+        "option2": "1891",
+        "option3": "1895",
+        "option4": "1893",
+        "question": "When did Annie Besant arrive in India?",
+        "set_id": 11
+    },
+    {
+        "_id": 260,
+        "answer": 2,
+        "option1": "13,833",
+        "option2": "11,363",
+        "option3": "12,401",
+        "option4": "10,952",
+        "question": "How many runs did Sourav Ganguly score in ODIs?",
+        "set_id": 11
+    },
+    {
+        "_id": 261,
+        "answer": 1,
+        "option1": "1996",
+        "option2": "1999",
+        "option3": "1992",
+        "option4": "1993",
+        "question": "In which year did H.D.Deve Gowda become PM of India?",
+        "set_id": 11
+    },
+    {
+        "_id": 262,
+        "answer": 3,
+        "option1": "Vishakapatnam",
+        "option2": "Kolkata",
+        "option3": "Kochi",
+        "option4": "Chennai",
+        "question": "The largest shipyard in India is located in which city?",
+        "set_id": 11
+    },
+    {
+        "_id": 263,
+        "answer": 2,
+        "option1": "Rajasthan",
+        "option2": "Goa",
+        "option3": "Maharashtra",
+        "option4": "Gujarat",
+        "question": "Fort Aguada is located in which Indian state?",
+        "set_id": 11
+    },
+    {
+        "_id": 264,
+        "answer": 1,
+        "option1": "2001",
+        "option2": "2003",
+        "option3": "2005",
+        "option4": "2007",
+        "question": "In which year did Leander Paes win the Padma Shri award?",
+        "set_id": 11
+    },
+    {
+        "_id": 265,
+        "answer": 4,
+        "option1": "164",
+        "option2": "139",
+        "option3": "142",
+        "option4": "157",
+        "question": "How many wickets did Ashish Nehra take in ODIs?",
+        "set_id": 11
+    },
+    {
+        "_id": 266,
+        "answer": 3,
+        "option1": "Agriculture",
+        "option2": "Service",
+        "option3": "Thermal Power",
+        "option4": "Paper",
+        "question": "Which industry in India consumes the most amount of water?",
+        "set_id": 11
+    },
+    {
+        "_id": 267,
+        "answer": 1,
+        "option1": "Rig Veda",
+        "option2": "Atharva Veda",
+        "option3": "Sama Veda",
+        "option4": "Yajur Veda",
+        "question": "Which Veda contains the Gayatri Mantra?",
+        "set_id": 11
+    },
+    {
+        "_id": 268,
+        "answer": 2,
+        "option1": "President",
+        "option2": "Prime Minister",
+        "option3": "Home Minister",
+        "option4": "Finance Minister",
+        "question": "Who is the chairman of the Planning Commision in India?",
+        "set_id": 11
+    },
+    {
+        "_id": 269,
+        "answer": 3,
+        "option1": "Part 17",
+        "option2": "Part 9",
+        "option3": "Part 3",
+        "option4": "Part 23",
+        "question": "In which part of the Indian Constitution are Fundamental Rights provided?",
+        "set_id": 11
+    },
+    {
+        "_id": 270,
+        "answer": 1,
+        "option1": "Kapilavastu",
+        "option2": "Vaishali",
+        "option3": "Vidisha",
+        "option4": "Gorakhpur",
+        "question": "Where was Gautam Buddha born?",
+        "set_id": 11
+    },
+    {
+        "_id": 271,
+        "answer": 4,
+        "option1": "Lahore",
+        "option2": "Delhi",
+        "option3": "Kabul",
+        "option4": "Agra",
+        "question": "In which city did the Mughal emperor Babar die?",
+        "set_id": 11
+    },
+    {
+        "_id": 272,
+        "answer": 2,
+        "option1": "Karnataka",
+        "option2": "Kerala",
+        "option3": "Andhra Pradesh",
+        "option4": "Maharashtra",
+        "question": "The Palakkad Gap connects the states of Tamil Nadu and",
+        "set_id": 11
+    },
+    {
+        "_id": 273,
+        "answer": 1,
+        "option1": "River Dolphin",
+        "option2": "Crocodile",
+        "option3": "Green Frog",
+        "option4": "Katla Fish",
+        "question": "What is India's national aquatic Animal?",
+        "set_id": 11
+    },
+    {
+        "_id": 274,
+        "answer": 3,
+        "option1": "6th May",
+        "option2": "12th October",
+        "option3": "14th September",
+        "option4": "19th July",
+        "question": "On which day is Hindi Divas celebrated in India?",
+        "set_id": 11
+    },
+    {
+        "_id": 275,
+        "answer": 2,
+        "option1": "1926",
+        "option2": "1928",
+        "option3": "1932",
+        "option4": "1936",
+        "question": "In which year did India win its first Olympics Hockey Gold?",
+        "set_id": 11
+    },
+    {
+        "_id": 276,
+        "answer": 1,
+        "option1": "University of Calcutta",
+        "option2": "Delhi University",
+        "option3": "Serampore College",
+        "option4": "University of Madras",
+        "question": "Which is the first university established in India?",
+        "set_id": 12
+    },
+    {
+        "_id": 277,
+        "answer": 2,
+        "option1": "121",
+        "option2": "157",
+        "option3": "163",
+        "option4": "192",
+        "question": "Gitanjali by Rabindranath Tagore is a collection of how many poems?",
+        "set_id": 12
+    },
+    {
+        "_id": 278,
+        "answer": 4,
+        "option1": "Goa",
+        "option2": "Punjab",
+        "option3": "Nagaland",
+        "option4": "Sikkim",
+        "question": "Which state in India shares its border with only one Indian state?",
+        "set_id": 12
+    },
+    {
+        "_id": 279,
+        "answer": 3,
+        "option1": "12",
+        "option2": "21",
+        "option3": "18",
+        "option4": "27",
+        "question": "How many books or parvas are there in the Mahabharata?",
+        "set_id": 12
+    },
+    {
+        "_id": 280,
+        "answer": 2,
+        "option1": "Tamil Nadu",
+        "option2": "Haryana",
+        "option3": "Madhya Pradesh",
+        "option4": "Uttar Pradesh",
+        "question": "Where is India's first Defence University located?",
+        "set_id": 12
+    },
+    {
+        "_id": 281,
+        "answer": 3,
+        "option1": "Jamshedji Tata",
+        "option2": "Raja Ram Mohan Roy",
+        "option3": "Dadabhai Naoroji",
+        "option4": "Pt. Jawaharlal Nehru",
+        "question": "Who was the first Indian to be a member of the British Parliament?",
+        "set_id": 12
+    },
+    {
+        "_id": 282,
+        "answer": 4,
+        "option1": "42",
+        "option2": "18",
+        "option3": "36",
+        "option4": "24",
+        "question": "How many spokes are present in the Ashoka Chakra?",
+        "set_id": 12
+    },
+    {
+        "_id": 283,
+        "answer": 2,
+        "option1": "Indigo",
+        "option2": "Air India",
+        "option3": "Spice Jet",
+        "option4": "Jet Airways",
+        "question": "By what name is TATA Airlines known today as?",
+        "set_id": 12
+    },
+    {
+        "_id": 284,
+        "answer": 3,
+        "option1": "Aryabhata",
+        "option2": "Kalpana 1",
+        "option3": "Soyuz-T",
+        "option4": "SARAL",
+        "question": "On which spacecraft did Rakesh Sharma make his trip to space?",
+        "set_id": 12
+    },
+    {
+        "_id": 285,
+        "answer": 1,
+        "option1": "Wuller Lake",
+        "option2": "Nainital Lake",
+        "option3": "Loktak Lake",
+        "option4": "Dal Lake",
+        "question": "Which is the largest fresh water lake in India?",
+        "set_id": 12
+    },
+    {
+        "_id": 286,
+        "answer": 4,
+        "option1": "Bramhagupta",
+        "option2": "Aryabhata",
+        "option3": "Pingala",
+        "option4": "Budhayana",
+        "question": "The value of pi was first calculated by",
+        "set_id": 12
+    },
+    {
+        "_id": 287,
+        "answer": 3,
+        "option1": "Times of India",
+        "option2": "Hindusthan Times",
+        "option3": "The Hindu",
+        "option4": "Mid Day",
+        "question": "Which is the first Indian newspaper to have an online edition?",
+        "set_id": 12
+    },
+    {
+        "_id": 288,
+        "answer": 2,
+        "option1": "10",
+        "option2": "7",
+        "option3": "5",
+        "option4": "9",
+        "question": "How many parts or kandas are there in the Ramayana?",
+        "set_id": 12
+    },
+    {
+        "_id": 289,
+        "answer": 1,
+        "option1": "Digboi",
+        "option2": "Guwahati",
+        "option3": "Bhopal",
+        "option4": "Mangalore",
+        "question": "Where is India's oldest refinery located?",
+        "set_id": 12
+    },
+    {
+        "_id": 290,
+        "answer": 2,
+        "option1": "Himalayas",
+        "option2": "Aravalli",
+        "option3": "Western Ghats",
+        "option4": "Eastern Ghats",
+        "question": "Which is the oldest mountain range in India?",
+        "set_id": 12
+    },
+    {
+        "_id": 291,
+        "answer": 3,
+        "option1": "Uttarakhand",
+        "option2": "Sikkim",
+        "option3": "Meghalaya",
+        "option4": "Assam",
+        "question": "In which Indian state are living root bridges found?",
+        "set_id": 12
+    },
+    {
+        "_id": 292,
+        "answer": 1,
+        "option1": "Andhra Pradesh",
+        "option2": "Tamil Nadu",
+        "option3": "Karnataka",
+        "option4": "Kerala",
+        "question": "Kuchipudi is a classical dance from which state?",
+        "set_id": 12
+    },
+    {
+        "_id": 293,
+        "answer": 4,
+        "option1": "12",
+        "option2": "10",
+        "option3": "15",
+        "option4": "9",
+        "question": "How many PIN zones are there in the Indian Postal Service?",
+        "set_id": 12
+    },
+    {
+        "_id": 294,
+        "answer": 2,
+        "option1": "12",
+        "option2": "7",
+        "option3": "9",
+        "option4": "5",
+        "question": "How many times has India been elected to the UN Security Council?",
+        "set_id": 12
+    },
+    {
+        "_id": 295,
+        "answer": 3,
+        "option1": "1927",
+        "option2": "1901",
+        "option3": "1875",
+        "option4": "1883",
+        "question": "In which year was the Bombay Stock Exchange established?",
+        "set_id": 12
+    },
+    {
+        "_id": 296,
+        "answer": 4,
+        "option1": "Pt. Jawaharlal Nehru",
+        "option2": "Mahatma Gandhi",
+        "option3": "Subhash Chandra Bose",
+        "option4": "Swami Vivekananda",
+        "question": "National Youth Day is celebrated in memory of which Indian figure?",
+        "set_id": 12
+    },
+    {
+        "_id": 297,
+        "answer": 2,
+        "option1": "TATA",
+        "option2": "Airtel",
+        "option3": "Vodafone",
+        "option4": "BSNL",
+        "question": "Which telecom company was the first to provide 4G service in India?",
+        "set_id": 12
+    },
+    {
+        "_id": 298,
+        "answer": 3,
+        "option1": "Madhya Pradesh",
+        "option2": "Andhra Pradesh",
+        "option3": "Kerala",
+        "option4": "Maharashtra",
+        "question": "Which of the following states is the largest producer of black pepper in India?",
+        "set_id": 12
+    },
+    {
+        "_id": 299,
+        "answer": 2,
+        "option1": "1957",
+        "option2": "1959",
+        "option3": "1965",
+        "option4": "1969",
+        "question": "When was the Panchayati Raj system first introduced in India?",
+        "set_id": 12
+    },
+    {
+        "_id": 300,
+        "answer": 1,
+        "option1": "Mumbai",
+        "option2": "Delhi",
+        "option3": "Kolkata",
+        "option4": "Chennai",
+        "question": "Where is India's largest post office located?",
+        "set_id": 12
+    },
+    {
+        "_id": 301,
+        "answer": 2,
+        "option1": "Guwahati",
+        "option2": "Dehradun",
+        "option3": "Shimla",
+        "option4": "Pune",
+        "question": "Where is the Indian Military Academy located?",
+        "set_id": 13
+    },
+    {
+        "_id": 302,
+        "answer": 3,
+        "option1": "Satara",
+        "option2": "Bengaluru",
+        "option3": "Chennai",
+        "option4": "Mumbai",
+        "question": "From which city is the Musalman newspaper published in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 303,
+        "answer": 4,
+        "option1": "Karnataka",
+        "option2": "Tamil Nadu",
+        "option3": "Madhya Pradesh",
+        "option4": "Kerala",
+        "question": "In which state is the hill station Munnar located?",
+        "set_id": 13
+    },
+    {
+        "_id": 304,
+        "answer": 2,
+        "option1": "Uttar Pradesh",
+        "option2": "Gujarat",
+        "option3": "Maharashtra",
+        "option4": "Madhya Pradesh",
+        "question": "Which state is the largest producer of cotton in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 305,
+        "answer": 3,
+        "option1": "64s",
+        "option2": "56s",
+        "option3": "52s",
+        "option4": "60s",
+        "question": "What is the duration of the national anthem of India?",
+        "set_id": 13
+    },
+    {
+        "_id": 306,
+        "answer": 2,
+        "option1": "Eden Gardens Stadium",
+        "option2": "Salt Lake Stadium",
+        "option3": "Wankhede Stadium",
+        "option4": "D.Y. Patil Stadium",
+        "question": "Which is the largest sports stadium in India in terms of capacity?",
+        "set_id": 13
+    },
+    {
+        "_id": 307,
+        "answer": 4,
+        "option1": "Karnataka",
+        "option2": "Kerala",
+        "option3": "Tamil Nadu",
+        "option4": "Goa",
+        "question": "In which state is India's only Naval Aviation Museum located?",
+        "set_id": 13
+    },
+    {
+        "_id": 308,
+        "answer": 1,
+        "option1": "18",
+        "option2": "16",
+        "option3": "12",
+        "option4": "9",
+        "question": "What is the total number of Biosphere Reserves in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 309,
+        "answer": 2,
+        "option1": "1953",
+        "option2": "1957",
+        "option3": "1961",
+        "option4": "1965",
+        "question": "In which year was the National Book Trust established in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 310,
+        "answer": 3,
+        "option1": "B.C. Chatterjee",
+        "option2": "Pt. Jawaharlal Nehru",
+        "option3": "Lal Bahadur Shastri",
+        "option4": "Mahatma Gandhi",
+        "question": "Who translated Madame Curie's autobiography to Hindi?",
+        "set_id": 13
+    },
+    {
+        "_id": 311,
+        "answer": 4,
+        "option1": "Madhya Pradesh",
+        "option2": "Maharashtra",
+        "option3": "Uttar Pradesh",
+        "option4": "Himachal Pradesh",
+        "question": "In which state is Khajjar Lake located?",
+        "set_id": 13
+    },
+    {
+        "_id": 312,
+        "answer": 3,
+        "option1": "Elephanta",
+        "option2": "Little Andaman",
+        "option3": "Wheeler",
+        "option4": "Barren",
+        "question": "Which island was renamed as Abdul Kalam Island?",
+        "set_id": 13
+    },
+    {
+        "_id": 313,
+        "answer": 1,
+        "option1": "Kerala",
+        "option2": "Uttarakhand",
+        "option3": "Himachal Pradesh",
+        "option4": "Sikkim",
+        "question": "Which Indian state is referred to as 'God's own Country'?",
+        "set_id": 13
+    },
+    {
+        "_id": 314,
+        "answer": 3,
+        "option1": "Peace Day",
+        "option2": "Teacher's Day",
+        "option3": "Anti-Terrorism Day",
+        "option4": "Children's Day",
+        "question": "What is the death aniversary of Rajiv Gandhi observed as?",
+        "set_id": 13
+    },
+    {
+        "_id": 315,
+        "answer": 2,
+        "option1": "Odisha",
+        "option2": "Karnataka",
+        "option3": "Maharashtra",
+        "option4": "Andhra Pradesh",
+        "question": "Which state is the largest producer of coffee in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 316,
+        "answer": 4,
+        "option1": "Patkai Hills",
+        "option2": "Himalayas",
+        "option3": "Cardamom Hills",
+        "option4": "Nilgiri Hills",
+        "question": "Where in India can the Toda tribes be found?",
+        "set_id": 13
+    },
+    {
+        "_id": 317,
+        "answer": 2,
+        "option1": "Gangotri",
+        "option2": "Himadri",
+        "option3": "IndARC",
+        "option4": "Vishnu",
+        "question": "What is India's first arctic research station called?",
+        "set_id": 13
+    },
+    {
+        "_id": 318,
+        "answer": 3,
+        "option1": "1960",
+        "option2": "1948",
+        "option3": "1952",
+        "option4": "1956",
+        "question": "In which year was the National Development Council established?",
+        "set_id": 13
+    },
+    {
+        "_id": 319,
+        "answer": 1,
+        "option1": "46",
+        "option2": "52",
+        "option3": "58",
+        "option4": "64",
+        "question": "How many runs did Mohinder Amarnath score in the 1983 World Cup final?",
+        "set_id": 13
+    },
+    {
+        "_id": 320,
+        "answer": 3,
+        "option1": "Indus",
+        "option2": "Narmada",
+        "option3": "Kaveri",
+        "option4": "Godavari",
+        "question": "The Mettur Dam is built on which river?",
+        "set_id": 13
+    },
+    {
+        "_id": 321,
+        "answer": 1,
+        "option1": "1986",
+        "option2": "1989",
+        "option3": "1992",
+        "option4": "1983",
+        "question": "When was the Environment Protection Act passed in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 322,
+        "answer": 2,
+        "option1": "Urdu",
+        "option2": "Bengali",
+        "option3": "Telugu",
+        "option4": "Marathi",
+        "question": "Which is the second most spoken language in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 323,
+        "answer": 4,
+        "option1": "Gujarat",
+        "option2": "Maharashtra",
+        "option3": "Goa",
+        "option4": "Odisha",
+        "question": "Wheeler Island is located on the coast of which state?",
+        "set_id": 13
+    },
+    {
+        "_id": 324,
+        "answer": 3,
+        "option1": "Mumbai",
+        "option2": "Dharmshala",
+        "option3": "Leh",
+        "option4": "Pune",
+        "question": "Where is the Central Institute of Buddhist Studies located in India?",
+        "set_id": 13
+    },
+    {
+        "_id": 325,
+        "answer": 1,
+        "option1": "ICICI Bank",
+        "option2": "Saraswat Bank",
+        "option3": "SBI",
+        "option4": "Axis Bank",
+        "question": "Which is the first bank in India to use Software Robotics?",
+        "set_id": 13
+    },
+    {
+        "_id": 326,
+        "answer": 2,
+        "option1": "2003",
+        "option2": "2005",
+        "option3": "2007",
+        "option4": "2009",
+        "question": "In which year was the Disaster Management Act enacted in India?",
+        "set_id": 14
+    },
+    {
+        "_id": 327,
+        "answer": 3,
+        "option1": "Tripura",
+        "option2": "Sikkim",
+        "option3": "Mizoram",
+        "option4": "Odisha",
+        "question": "Which Indian state has the highest percentage of tribal population?",
+        "set_id": 14
+    },
+    {
+        "_id": 328,
+        "answer": 4,
+        "option1": "Panaji",
+        "option2": "Vizag",
+        "option3": "Manipal",
+        "option4": "Hampi",
+        "question": "Which city of India used to be known as Vijaynagar?",
+        "set_id": 14
+    },
+    {
+        "_id": 329,
+        "answer": 2,
+        "option1": "Tamil Nadu",
+        "option2": "Karnataka",
+        "option3": "Kerala",
+        "option4": "Madhya Pradesh",
+        "question": "In which Indian state is the Bandipur National Park located?",
+        "set_id": 14
+    },
+    {
+        "_id": 330,
+        "answer": 1,
+        "option1": "S. Radhakrishnan",
+        "option2": "Gyani Zail Singh",
+        "option3": "Dr. Rajendra Prasad",
+        "option4": "Morarji Desai",
+        "question": "Who was the first Vice President of India to recieve the Bharat Ratna?",
+        "set_id": 14
+    },
+    {
+        "_id": 331,
+        "answer": 2,
+        "option1": "Uttar Pradesh",
+        "option2": "Tamil Nadu",
+        "option3": "Maharashtra",
+        "option4": "Rajasthan",
+        "question": "Which state in India has the largest number of towns?",
+        "set_id": 14
+    },
+    {
+        "_id": 332,
+        "answer": 3,
+        "option1": "Pakistan",
+        "option2": "Bangladesh",
+        "option3": "Afghanisthan",
+        "option4": "Bhutan",
+        "question": "Which country shares the shortest land border with India?",
+        "set_id": 14
+    },
+    {
+        "_id": 333,
+        "answer": 2,
+        "option1": "Tamil Nadu",
+        "option2": "Goa",
+        "option3": "Gujarat",
+        "option4": "Maharashtra",
+        "question": "Where is the National Institute of Oceanography located?",
+        "set_id": 14
+    },
+    {
+        "_id": 334,
+        "answer": 3,
+        "option1": "Trident",
+        "option2": "Blue Star",
+        "option3": "Vijay",
+        "option4": "Python",
+        "question": "What was the Kargil Operation named as?",
+        "set_id": 14
+    },
+    {
+        "_id": 335,
+        "answer": 1,
+        "option1": "Kolkata",
+        "option2": "Allahabad",
+        "option3": "Bengaluru",
+        "option4": "Pune",
+        "question": "In which city is the National Botanical Garden located at?",
+        "set_id": 14
+    },
+    {
+        "_id": 336,
+        "answer": 4,
+        "option1": "Raman Sukumar",
+        "option2": "Sarath Kumar",
+        "option3": "Madhav Gadgil",
+        "option4": "Ramdeo Misra",
+        "question": "Who is known as the Father of Indian Ecology?",
+        "set_id": 14
+    },
+    {
+        "_id": 337,
+        "answer": 1,
+        "option1": "Karnataka",
+        "option2": "Madhya Pradesh",
+        "option3": "Himachal Pradesh",
+        "option4": "Maharashtra",
+        "question": "In which state is the Sharavathi hydro project located?",
+        "set_id": 14
+    },
+    {
+        "_id": 338,
+        "answer": 2,
+        "option1": "France",
+        "option2": "Russia",
+        "option3": "Germany",
+        "option4": "USA",
+        "question": "Which country jointly developed the Brahmos missile with India?",
+        "set_id": 14
+    },
+    {
+        "_id": 339,
+        "answer": 4,
+        "option1": "19",
+        "option2": "17",
+        "option3": "21",
+        "option4": "15",
+        "question": "How many centuries did Virender Sehwag score in ODI cricket?",
+        "set_id": 14
+    },
+    {
+        "_id": 340,
+        "answer": 3,
+        "option1": "Guwahati",
+        "option2": "Amritsar",
+        "option3": "Bhubaneswar",
+        "option4": "Bikaner",
+        "question": "Which Indian city is also known as the 'City of Temples'?",
+        "set_id": 14
+    },
+    {
+        "_id": 341,
+        "answer": 2,
+        "option1": "Arunachal Pradesh",
+        "option2": "Assam",
+        "option3": "Sikkim",
+        "option4": "Meghalaya",
+        "question": "In which state is the Kaziranga National Park located?",
+        "set_id": 14
+    },
+    {
+        "_id": 342,
+        "answer": 1,
+        "option1": "Varanasi",
+        "option2": "Mumbai",
+        "option3": "Guwahati",
+        "option4": "New Delhi",
+        "question": "In which city of India is the Bharat Kala Bhavan located?",
+        "set_id": 14
+    },
+    {
+        "_id": 343,
+        "answer": 2,
+        "option1": "Japan",
+        "option2": "Israel",
+        "option3": "Russia",
+        "option4": "USA",
+        "question": "Which country jointly developed the Barak-8 missile with India?",
+        "set_id": 14
+    },
+    {
+        "_id": 344,
+        "answer": 3,
+        "option1": "1977",
+        "option2": "1981",
+        "option3": "1985",
+        "option4": "1989",
+        "question": "When was the Ministry of Human Resource Development established?",
+        "set_id": 14
+    },
+    {
+        "_id": 345,
+        "answer": 1,
+        "option1": "Singapore",
+        "option2": "Malaysia",
+        "option3": "Nepal",
+        "option4": "Bhutan",
+        "question": "In which of these countries is Tamil considered a major language?",
+        "set_id": 14
+    },
+    {
+        "_id": 346,
+        "answer": 2,
+        "option1": "4846 km",
+        "option2": "5846 km",
+        "option3": "6846 km",
+        "option4": "7846 km",
+        "question": "What is the total length of the Golden Quadrilateral highway network?",
+        "set_id": 14
+    },
+    {
+        "_id": 347,
+        "answer": 1,
+        "option1": "1911",
+        "option2": "1915",
+        "option3": "1919",
+        "option4": "1923",
+        "question": "In which year was the Indian Institute of Science established?",
+        "set_id": 14
+    },
+    {
+        "_id": 348,
+        "answer": 4,
+        "option1": "35 years",
+        "option2": "40 years",
+        "option3": "45 years ",
+        "option4": "None of the Above",
+        "question": "What is the minimum age required to be a judge of the Supreme Court?",
+        "set_id": 14
+    },
+    {
+        "_id": 349,
+        "answer": 2,
+        "option1": "10",
+        "option2": "15",
+        "option3": "20",
+        "option4": "25",
+        "question": "What is the total number of agro climatic zones in India?",
+        "set_id": 14
+    },
+    {
+        "_id": 350,
+        "answer": 4,
+        "option1": "Madhya Pradesh",
+        "option2": "Rajasthan",
+        "option3": "Andhra Pradesh",
+        "option4": "West Bengal",
+        "question": "Which is the largest paper producing state in India?",
+        "set_id": 14
+    },
+    {
+        "_id": 351,
+        "answer": 3,
+        "option1": "1984",
+        "option2": "1988",
+        "option3": "1992",
+        "option4": "1996",
+        "question": "In which year was Project Elephant launched in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 352,
+        "answer": 1,
+        "option1": "Telangana",
+        "option2": "Andhra Pradesh",
+        "option3": "Gujarat",
+        "option4": "Maharashtra",
+        "question": "Which is the first Indian state to pass GST Bill in Legislative Assembly?",
+        "set_id": 15
+    },
+    {
+        "_id": 353,
+        "answer": 2,
+        "option1": "Indus",
+        "option2": "Hooghly",
+        "option3": "Ganga",
+        "option4": "Bramhaputra",
+        "question": "India's first underwater rail tunnel is built in which river?",
+        "set_id": 15
+    },
+    {
+        "_id": 354,
+        "answer": 3,
+        "option1": "Chenab",
+        "option2": "Sutlej",
+        "option3": "Ravi",
+        "option4": "Beas",
+        "question": "The Holi Hydel Power Project is located in which river basin?",
+        "set_id": 15
+    },
+    {
+        "_id": 355,
+        "answer": 1,
+        "option1": "Anamudi",
+        "option2": "Doddabetta",
+        "option3": "Pushpagiri",
+        "option4": "Chembra",
+        "question": "Which is the highest mountain peak in south India?",
+        "set_id": 15
+    },
+    {
+        "_id": 356,
+        "answer": 3,
+        "option1": "2015",
+        "option2": "2016",
+        "option3": "2017",
+        "option4": "2018",
+        "question": "In which year was GST implemented in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 357,
+        "answer": 1,
+        "option1": "Phu Dorjee",
+        "option2": "Binita Soren",
+        "option3": "Santosh Yadav",
+        "option4": "Ang Kami",
+        "question": "Who was the first Indian to reach the top of Mt. Everest without oxygen?",
+        "set_id": 15
+    },
+    {
+        "_id": 358,
+        "answer": 4,
+        "option1": "Nelson Mandela",
+        "option2": "Mother Teresa",
+        "option3": "Annie Besant",
+        "option4": "Khan Abdul Ghaffar Khan",
+        "question": "Who is the first foreigner to receive the Bharat Ratna award?",
+        "set_id": 15
+    },
+    {
+        "_id": 359,
+        "answer": 2,
+        "option1": "Chandragiri Fort",
+        "option2": "Jaisalmer Fort",
+        "option3": "Ita Fort",
+        "option4": "Chapora Fort",
+        "question": "Which fort is also known as the Golden Fort in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 360,
+        "answer": 3,
+        "option1": "Bihar",
+        "option2": "Uttar Pradesh",
+        "option3": "Chattisgarh",
+        "option4": "Odisha",
+        "question": "Which state of India has the highest poverty ratio?",
+        "set_id": 15
+    },
+    {
+        "_id": 361,
+        "answer": 1,
+        "option1": "Lambasingi",
+        "option2": "Yercaud",
+        "option3": "Coonoor",
+        "option4": "Ponmudi",
+        "question": "Which is the only place in South India where snowfall occurs?",
+        "set_id": 15
+    },
+    {
+        "_id": 362,
+        "answer": 2,
+        "option1": "Kolkata",
+        "option2": "Hyderabad",
+        "option3": "Mumbai",
+        "option4": "New Delhi",
+        "question": "In which city was India's first e-court inaugrated?",
+        "set_id": 15
+    },
+    {
+        "_id": 363,
+        "answer": 1,
+        "option1": "Kochi",
+        "option2": "Mumbai",
+        "option3": "Surat",
+        "option4": "Kandla",
+        "question": "Which port is called the 'Queen of the Arabian Sea'?",
+        "set_id": 15
+    },
+    {
+        "_id": 364,
+        "answer": 2,
+        "option1": "Firozpur",
+        "option2": "Akodara",
+        "option3": "Kohima",
+        "option4": "Rampur",
+        "question": "Which among these is India's first Digital Village?",
+        "set_id": 15
+    },
+    {
+        "_id": 365,
+        "answer": 1,
+        "option1": "Maharashtra",
+        "option2": "Goa",
+        "option3": "Tamil Nadu",
+        "option4": "Telangana",
+        "question": "Which state is the largest producer of cashewnuts in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 366,
+        "answer": 3,
+        "option1": "Sudhir Tailang",
+        "option2": "K. Shankar Pillai",
+        "option3": "R.K. Laxman",
+        "option4": "Abu Abraham",
+        "question": "Who is known for creating the cartoon - The Common Man?",
+        "set_id": 15
+    },
+    {
+        "_id": 367,
+        "answer": 4,
+        "option1": "Ajmer",
+        "option2": "Mumbai",
+        "option3": "Jaipur",
+        "option4": "Karnal",
+        "question": "Where is the National Dairy Research Institute located?",
+        "set_id": 15
+    },
+    {
+        "_id": 368,
+        "answer": 3,
+        "option1": "13",
+        "option2": "15",
+        "option3": "17",
+        "option4": "19",
+        "question": "How many total provinces were in British India pre-independence?",
+        "set_id": 15
+    },
+    {
+        "_id": 369,
+        "answer": 4,
+        "option1": "Mulshi",
+        "option2": "Bhakra",
+        "option3": "Tehri",
+        "option4": "Hirakud",
+        "question": "Which is the longest dam in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 370,
+        "answer": 3,
+        "option1": "1996",
+        "option2": "2000",
+        "option3": "2004",
+        "option4": "2008",
+        "question": "In which year was the EDUSAT programme launched in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 371,
+        "answer": 1,
+        "option1": "Chennai",
+        "option2": "Pune",
+        "option3": "Kolkata",
+        "option4": "New Delhi",
+        "question": "Where is the Animal Welfare Board of India Headquarters located?",
+        "set_id": 15
+    },
+    {
+        "_id": 372,
+        "answer": 2,
+        "option1": "Rajiv Gandhi",
+        "option2": "Sardar Vallabhbhai Patel",
+        "option3": "Indira Gandhi",
+        "option4": "Lal Bahadur Shastri",
+        "question": "On whose birthday is National Unity Day observed in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 373,
+        "answer": 3,
+        "option1": "1997",
+        "option2": "2001",
+        "option3": "2005",
+        "option4": "2009",
+        "question": "In which year was the Right to Information Act enacted in India?",
+        "set_id": 15
+    },
+    {
+        "_id": 374,
+        "answer": 4,
+        "option1": "Mumbai",
+        "option2": "Pune",
+        "option3": "Chennai",
+        "option4": "Delhi",
+        "question": "Which is India's first kerosene free city?",
+        "set_id": 15
+    },
+    {
+        "_id": 375,
+        "answer": 1,
+        "option1": "25th January",
+        "option2": "5th April",
+        "option3": "16th December",
+        "option4": "9th June",
+        "question": "National Voter's Day is celebrated in India on which day?",
+        "set_id": 15
+    },
+    {
+        "_id": 376,
+        "answer": 2,
+        "option1": "West Bengal",
+        "option2": "Arunachal Pradesh",
+        "option3": "Sikkim",
+        "option4": "Assam",
+        "question": "North East Frontier Agency is the former name of which Indian state?",
+        "set_id": 16
+    },
+    {
+        "_id": 377,
+        "answer": 4,
+        "option1": "Lion",
+        "option2": "Bull",
+        "option3": "Elephant",
+        "option4": "Deer",
+        "question": "Which of these animals is not carved on the State Emblem of India?",
+        "set_id": 16
+    },
+    {
+        "_id": 378,
+        "answer": 3,
+        "option1": "1994",
+        "option2": "1996",
+        "option3": "1998",
+        "option4": "2000",
+        "question": "When was India's first telephone service launched in the private sector?",
+        "set_id": 16
+    },
+    {
+        "_id": 379,
+        "answer": 4,
+        "option1": "Bengaluru",
+        "option2": "Pune",
+        "option3": "Hyderabad",
+        "option4": "Thiruvananthapuram",
+        "question": "Where is India's first Techno Park located?",
+        "set_id": 16
+    },
+    {
+        "_id": 380,
+        "answer": 1,
+        "option1": "Taj Mahal",
+        "option2": "Qutub Minar",
+        "option3": "Char Minar",
+        "option4": "Gateway to India",
+        "question": "Which is the first monument in the world to debut on Twitter?",
+        "set_id": 16
+    },
+    {
+        "_id": 381,
+        "answer": 2,
+        "option1": "Mahatma Gandhi",
+        "option2": "Dr. A.P.J. Abdul Kalam",
+        "option3": "Swami Vivekananda",
+        "option4": "Pt. Jawaharlal Nehru",
+        "question": "Whose birthday is declared as World Students Day by the UNO?",
+        "set_id": 16
+    },
+    {
+        "_id": 382,
+        "answer": 3,
+        "option1": "Hemp",
+        "option2": "Sugar",
+        "option3": "Cotton",
+        "option4": "Tea",
+        "question": "Which is the largest agro based industry in India?",
+        "set_id": 16
+    },
+    {
+        "_id": 383,
+        "answer": 2,
+        "option1": "2003",
+        "option2": "2005",
+        "option3": "2007",
+        "option4": "2009",
+        "question": "In which year was the National Knowledge Commission established?",
+        "set_id": 16
+    },
+    {
+        "_id": 384,
+        "answer": 3,
+        "option1": "Theoretical Physics",
+        "option2": "Laser Physics",
+        "option3": "Nuclear Energy",
+        "option4": "Space Research",
+        "question": "Homi Bhabha Award is given for special recognition in which field?",
+        "set_id": 16
+    },
+    {
+        "_id": 385,
+        "answer": 2,
+        "option1": "Vizag",
+        "option2": "Haldia",
+        "option3": "Kochi",
+        "option4": "Kanyakumari",
+        "question": "The National Water Way 1 connects Allahabad and which city?",
+        "set_id": 16
+    },
+    {
+        "_id": 386,
+        "answer": 1,
+        "option1": "Saraswati",
+        "option2": "Beas",
+        "option3": "Jhelum",
+        "option4": "Sutlej",
+        "question": "Which river is called 'Nadittam' in the Rigveda?",
+        "set_id": 16
+    },
+    {
+        "_id": 387,
+        "answer": 4,
+        "option1": "India Gate",
+        "option2": "Qutub Minar",
+        "option3": "Char Minar",
+        "option4": "Taj Mahal",
+        "question": "Which of the following monuments is exactly equal in length and breadth?",
+        "set_id": 16
+    },
+    {
+        "_id": 388,
+        "answer": 2,
+        "option1": "Panaji",
+        "option2": "Chennai",
+        "option3": "Kolkata",
+        "option4": "Mumbai",
+        "question": "Which is the only Indian city that was attacked during WW1?",
+        "set_id": 16
+    },
+    {
+        "_id": 389,
+        "answer": 3,
+        "option1": "Param Vir Chakra",
+        "option2": "Vir Chakra",
+        "option3": "Ashoka Chakra",
+        "option4": "Kirti Chakra",
+        "question": "Which is the highest attainable award for gallantry during peacetime?",
+        "set_id": 16
+    },
+    {
+        "_id": 390,
+        "answer": 1,
+        "option1": "Sikkim",
+        "option2": "Assam",
+        "option3": "Arunachal Pradesh",
+        "option4": "Bihar",
+        "question": "Which state of India shares borders with Nepal, Bhutan and China?",
+        "set_id": 16
+    },
+    {
+        "_id": 391,
+        "answer": 2,
+        "option1": "2011",
+        "option2": "2013",
+        "option3": "2015",
+        "option4": "2017",
+        "question": "In which year was the NOTA option first used during elections in India?",
+        "set_id": 16
+    },
+    {
+        "_id": 392,
+        "answer": 1,
+        "option1": "M.S. Subbulakshmi",
+        "option2": "Ravi Shankar",
+        "option3": "Zakir Hussain",
+        "option4": "Asha Bhosle",
+        "question": "Who is the first musician to receive the Bharat Ratna?",
+        "set_id": 16
+    },
+    {
+        "_id": 393,
+        "answer": 2,
+        "option1": "Gujarat",
+        "option2": "Maharashtra",
+        "option3": "Rajasthan",
+        "option4": "Himachal Pradesh",
+        "question": "Which state has the most number of Buddhists in India?",
+        "set_id": 16
+    },
+    {
+        "_id": 394,
+        "answer": 4,
+        "option1": "Kutch",
+        "option2": "Kangra",
+        "option3": "Patna Sahid",
+        "option4": "Ladakh",
+        "question": "Which of the following is the largest constituency in terms of area?",
+        "set_id": 16
+    },
+    {
+        "_id": 395,
+        "answer": 2,
+        "option1": "1998",
+        "option2": "2002",
+        "option3": "2006",
+        "option4": "2010",
+        "question": "When was the National Biodiversity Act of India enacted?",
+        "set_id": 16
+    },
+    {
+        "_id": 396,
+        "answer": 3,
+        "option1": "Uttar Pradesh",
+        "option2": "Himachal Pradesh",
+        "option3": "Sikkim",
+        "option4": "Assam",
+        "question": "In which state is the Nathula Pass located?",
+        "set_id": 16
+    },
+    {
+        "_id": 397,
+        "answer": 1,
+        "option1": "Weavers",
+        "option2": "Poets",
+        "option3": "Singers",
+        "option4": "Actors",
+        "question": "The Sant Kabir award honors which of the following?",
+        "set_id": 16
+    },
+    {
+        "_id": 398,
+        "answer": 4,
+        "option1": "Daler Mehndi",
+        "option2": "Mika Singh",
+        "option3": "Sukhvinder Singh",
+        "option4": "Sukhbir",
+        "question": "Who is famously known as the 'Prince of Bhangra'?",
+        "set_id": 16
+    },
+    {
+        "_id": 399,
+        "answer": 1,
+        "option1": "Ahmedabad",
+        "option2": "Delhi",
+        "option3": "Ajmer",
+        "option4": "Hyderabad",
+        "question": "In which city is the Sidhi Bashir Mosque located?",
+        "set_id": 16
+    },
+    {
+        "_id": 400,
+        "answer": 3,
+        "option1": "1963",
+        "option2": "1966",
+        "option3": "1969",
+        "option4": "1972",
+        "question": "In which year was the Dadasaheb Phalke award instituted?",
+        "set_id": 16
+    },
+    {
+        "_id": 401,
+        "answer": 2,
+        "option1": "Madhya Pradesh",
+        "option2": "Haryana",
+        "option3": "Himachal Pradesh",
+        "option4": "Uttar Pradesh",
+        "question": "In which state is the Bhima Devi Temple located?",
+        "set_id": 17
+    },
+    {
+        "_id": 402,
+        "answer": 3,
+        "option1": "Ajanta Caves",
+        "option2": "Nasik Caves",
+        "option3": "Bagh Caves",
+        "option4": "Ellora Caves",
+        "question": "Which among the following caves is not in Maharashtra?",
+        "set_id": 17
+    },
+    {
+        "_id": 403,
+        "answer": 1,
+        "option1": "Pratiharas",
+        "option2": "Solankis",
+        "option3": "Chauhanas",
+        "option4": "Parmaras",
+        "question": "Who built the temple of Osian, near Jodhpur?",
+        "set_id": 17
+    },
+    {
+        "_id": 404,
+        "answer": 4,
+        "option1": "Rama",
+        "option2": "Kuber",
+        "option3": "Hanuman",
+        "option4": "Ravana",
+        "question": "According to Indian Mythology, who sang the Shiva Tandava Stotra?",
+        "set_id": 17
+    },
+    {
+        "_id": 405,
+        "answer": 1,
+        "option1": "Aladdin",
+        "option2": "Titanic",
+        "option3": "True Lies",
+        "option4": "Terminator 2",
+        "question": "Which is the first English film to be dubbed in Hindi?",
+        "set_id": 17
+    },
+    {
+        "_id": 406,
+        "answer": 3,
+        "option1": "Sikkim",
+        "option2": "Tripura",
+        "option3": "Mizoram",
+        "option4": "Meghalaya",
+        "question": "In which state of India is the Chapchar Kut Festival celebrated?",
+        "set_id": 17
+    },
+    {
+        "_id": 407,
+        "answer": 4,
+        "option1": "Shashi Kapoor",
+        "option2": "Rajesh Khanna",
+        "option3": "Sunil Dutt",
+        "option4": "Dadasaheb Phalke",
+        "question": "Dhundiraj Govind was the first name of which legend of Indian cinema?",
+        "set_id": 17
+    },
+    {
+        "_id": 408,
+        "answer": 1,
+        "option1": "Literature",
+        "option2": "Film",
+        "option3": "Music",
+        "option4": "Dance",
+        "question": "In which field is the Vyas Samman given?",
+        "set_id": 17
+    },
+    {
+        "_id": 409,
+        "answer": 4,
+        "option1": "Patiala",
+        "option2": "Ludhiana",
+        "option3": "Mohali",
+        "option4": "Amritsar",
+        "question": "Which city of Punjab used to be known as Ramdaspur?",
+        "set_id": 17
+    },
+    {
+        "_id": 410,
+        "answer": 2,
+        "option1": "Shiva",
+        "option2": "Ganesha",
+        "option3": "Bramha",
+        "option4": "Rama",
+        "question": "As per Indian Mythology, Dhumravarna is which Hindu deity's avatar?",
+        "set_id": 17
+    },
+    {
+        "_id": 411,
+        "answer": 3,
+        "option1": "Mughal-e-Azam",
+        "option2": "Shree 420",
+        "option3": "Kisan Kanhiya",
+        "option4": "Lava Kusa",
+        "question": "Which was India’s first indigenously made color film?",
+        "set_id": 17
+    },
+    {
+        "_id": 412,
+        "answer": 1,
+        "option1": "Music",
+        "option2": "Film",
+        "option3": "Dance",
+        "option4": "Bravery",
+        "question": "In which field is the Puttaraj Samman given?",
+        "set_id": 17
+    },
+    {
+        "_id": 413,
+        "answer": 4,
+        "option1": "Kirana",
+        "option2": "Jaipur",
+        "option3": "Banaras",
+        "option4": "Mewati",
+        "question": "Pandit Jasraj belongs to which among the following gharanas?",
+        "set_id": 17
+    },
+    {
+        "_id": 414,
+        "answer": 2,
+        "option1": "Madhya Pradesh",
+        "option2": "Tamil Nadu",
+        "option3": "Gujarat",
+        "option4": "Andhra Pradesh",
+        "question": "Kargam is a dance form from which Indian state?",
+        "set_id": 17
+    },
+    {
+        "_id": 415,
+        "answer": 3,
+        "option1": "March",
+        "option2": "December",
+        "option3": "April",
+        "option4": "July",
+        "question": "In which month of the year is Vishu celebrated in Kerala?",
+        "set_id": 17
+    },
+    {
+        "_id": 416,
+        "answer": 4,
+        "option1": "Puducherry",
+        "option2": "Dehradun",
+        "option3": "Bengaluru",
+        "option4": "Goa",
+        "question": "Where in India is the Basilica of Bom Jesus located?",
+        "set_id": 17
+    },
+    {
+        "_id": 417,
+        "answer": 3,
+        "option1": "Uttarakhand",
+        "option2": "Maharashtra",
+        "option3": "Tamil Nadu",
+        "option4": "Kerala",
+        "question": "The Shore Temple is located in which Indian state?",
+        "set_id": 17
+    },
+    {
+        "_id": 418,
+        "answer": 1,
+        "option1": "Suchitra Sen",
+        "option2": "Amaravati",
+        "option3": "Kanan Devi",
+        "option4": "Bharathi Shirodkor",
+        "question": "Who among the following was known as Bengal’s Greta Garbo?",
+        "set_id": 17
+    },
+    {
+        "_id": 419,
+        "answer": 4,
+        "option1": "Tukaram",
+        "option2": "Namdev",
+        "option3": "Visoba Khechar",
+        "option4": "Dnyaneshwar",
+        "question": "Who founded the Varkari sect in Maharashtra?",
+        "set_id": 17
+    },
+    {
+        "_id": 420,
+        "answer": 2,
+        "option1": "Maharashtra",
+        "option2": "Gujarat",
+        "option3": "Uttarakhand",
+        "option4": "Andhra Pradesh",
+        "question": "Which state government annually confers the Tana Riri Award?",
+        "set_id": 17
+    },
+    {
+        "_id": 421,
+        "answer": 1,
+        "option1": "Bairaj Khanna",
+        "option2": "Chetan Bhagat",
+        "option3": "Arundhati Roy",
+        "option4": "Khushwant Singh",
+        "question": "Which Indian author wrote the book - 'Line of Blood'?",
+        "set_id": 17
+    },
+    {
+        "_id": 422,
+        "answer": 3,
+        "option1": "NGO",
+        "option2": "Constitutional Body",
+        "option3": "Statutory Body",
+        "option4": "Advisory Body",
+        "question": "The Insurance Regulatory and Development Authority (IRDA) is a ",
+        "set_id": 17
+    },
+    {
+        "_id": 423,
+        "answer": 2,
+        "option1": "Hinduism",
+        "option2": "Buddhism",
+        "option3": "Islam",
+        "option4": "Chrisianity",
+        "question": "The Royal Kathina Ceremony is associated with which religion?",
+        "set_id": 17
+    },
+    {
+        "_id": 424,
+        "answer": 1,
+        "option1": "Shakti Sthal",
+        "option2": "Shanti Ghat",
+        "option3": "Shanti Van",
+        "option4": "Shanti Sthal",
+        "question": "What is the name of Indira Gandhi's Samadhi?",
+        "set_id": 17
+    },
+    {
+        "_id": 425,
+        "answer": 2,
+        "option1": "Hyderabad",
+        "option2": "Fatehpur Sikri",
+        "option3": "Bikaner",
+        "option4": "Jalandhar",
+        "question": "Where is the Pancha Mahal located?",
+        "set_id": 17
+    },
+    {
+        "_id": 426,
+        "answer": 3,
+        "option1": "Sarojini Naidu",
+        "option2": "Baba Amte",
+        "option3": "Sundarlal Bahugana",
+        "option4": "Annie Besant",
+        "question": "Who among the following is regarded as leader of the 'Chipko Movement'?",
+        "set_id": 18
+    },
+    {
+        "_id": 427,
+        "answer": 2,
+        "option1": "1st",
+        "option2": "2nd",
+        "option3": "3rd",
+        "option4": "4th",
+        "question": "What is India's global rank in terms of silk production?",
+        "set_id": 18
+    },
+    {
+        "_id": 428,
+        "answer": 3,
+        "option1": "Varanasi",
+        "option2": "Srinagar",
+        "option3": "Hyderabad",
+        "option4": "New Delhi",
+        "question": "Where is the National Rural Development Institute located?",
+        "set_id": 18
+    },
+    {
+        "_id": 429,
+        "answer": 4,
+        "option1": "Prime Minister",
+        "option2": "Home Minister",
+        "option3": "President",
+        "option4": "Parliament",
+        "question": "Who has the power to remove the Election Commisioner?",
+        "set_id": 18
+    },
+    {
+        "_id": 430,
+        "answer": 3,
+        "option1": "Bamboos",
+        "option2": "Wood",
+        "option3": "Bricks",
+        "option4": "Stone",
+        "question": "The Indus Valley houses were built using which material?",
+        "set_id": 18
+    },
+    {
+        "_id": 431,
+        "answer": 1,
+        "option1": "Onam",
+        "option2": "Diwali",
+        "option3": "Pongal",
+        "option4": "Navratri",
+        "question": "In which of the following festivals are boat races a special feature?",
+        "set_id": 18
+    },
+    {
+        "_id": 432,
+        "answer": 4,
+        "option1": "President",
+        "option2": "Prime Minister",
+        "option3": "Speaker",
+        "option4": "Supreme Court",
+        "question": "Who is the guardian of India's Fundamental Rights?",
+        "set_id": 18
+    },
+    {
+        "_id": 433,
+        "answer": 1,
+        "option1": "Andhra Pradesh",
+        "option2": "Karnataka",
+        "option3": "Maharashtra",
+        "option4": "Uttar Pradesh",
+        "question": "The Chandragiri Fort is located in which state?",
+        "set_id": 18
+    },
+    {
+        "_id": 434,
+        "answer": 2,
+        "option1": "Humayun",
+        "option2": "Bahadur Shah",
+        "option3": "Aurangzeb",
+        "option4": "Shahjahan",
+        "question": "Who was the last Mughal Emperor?",
+        "set_id": 18
+    },
+    {
+        "_id": 435,
+        "answer": 3,
+        "option1": "10",
+        "option2": "20",
+        "option3": "24",
+        "option4": "16",
+        "question": "How many parts are there in the Indian Constitution?",
+        "set_id": 18
+    },
+    {
+        "_id": 436,
+        "answer": 2,
+        "option1": "RBI",
+        "option2": "C.S.O.",
+        "option3": "Finance Ministry",
+        "option4": "Planning Commission",
+        "question": "National Income estimates in India are prepared by",
+        "set_id": 18
+    },
+    {
+        "_id": 437,
+        "answer": 4,
+        "option1": "New Delhi",
+        "option2": "Hyderabad",
+        "option3": "Kolkata",
+        "option4": "Mumbai",
+        "question": "In which city is Dalal Street located?",
+        "set_id": 18
+    },
+    {
+        "_id": 438,
+        "answer": 3,
+        "option1": "Central Bank of India",
+        "option2": "United Bank of India",
+        "option3": "Imperial Bank of India",
+        "option4": "People’s Bank of India",
+        "question": "The State Bank of India used to be known as",
+        "set_id": 18
+    },
+    {
+        "_id": 439,
+        "answer": 1,
+        "option1": "Sarojini Naidu",
+        "option2": "Rabindranath Tagore",
+        "option3": "R.K. Laxman",
+        "option4": "K.R. Narayan",
+        "question": "'Golden Threshold’ is a collection of poems written by",
+        "set_id": 18
+    },
+    {
+        "_id": 440,
+        "answer": 3,
+        "option1": "President",
+        "option2": "Governer",
+        "option3": "Lok Sabha",
+        "option4": "Rajya Sabha",
+        "question": "During President's Rule in a state, the Budget of the state is passed by",
+        "set_id": 18
+    },
+    {
+        "_id": 441,
+        "answer": 2,
+        "option1": "1598",
+        "option2": "1602",
+        "option3": "1606",
+        "option4": "1610",
+        "question": "In which year was the Dutch East India Company formed?",
+        "set_id": 18
+    },
+    {
+        "_id": 442,
+        "answer": 1,
+        "option1": "Gupta",
+        "option2": "Maurya",
+        "option3": "Satwahan",
+        "option4": "Sakya",
+        "question": "Which period is referred to as the Golden Age of Ancient India?",
+        "set_id": 18
+    },
+    {
+        "_id": 443,
+        "answer": 3,
+        "option1": "Panchalas",
+        "option2": "Haryanks",
+        "option3": "Chandellas",
+        "option4": "Nandas",
+        "question": "Who built the Khajuraho temple?",
+        "set_id": 18
+    },
+    {
+        "_id": 444,
+        "answer": 2,
+        "option1": "Federal State",
+        "option2": "Union of States",
+        "option3": "Quasi Federal State",
+        "option4": "Unitary State",
+        "question": "What does Article 1 of the Constitution declare India as?",
+        "set_id": 18
+    },
+    {
+        "_id": 445,
+        "answer": 3,
+        "option1": "1798",
+        "option2": "1892",
+        "option3": "1896",
+        "option4": "1900",
+        "question": "In which year was the Ramkrishna Mission founded?",
+        "set_id": 18
+    },
+    {
+        "_id": 446,
+        "answer": 4,
+        "option1": "Dr.Rajendra Prasad",
+        "option2": "B.R. Ambedkar",
+        "option3": "H.V.Kamath",
+        "option4": "Sachchidananda Sinha",
+        "question": "Who presided over the first meeting of the Indian Constituent Assembly?",
+        "set_id": 18
+    },
+    {
+        "_id": 447,
+        "answer": 1,
+        "option1": "Andhra Pradesh",
+        "option2": "Madhya Pradesh",
+        "option3": "Uttar Pradesh",
+        "option4": "Bengal",
+        "question": "In which state was President's Rule first imposed in India?",
+        "set_id": 18
+    },
+    {
+        "_id": 448,
+        "answer": 3,
+        "option1": "Chandragupta 1",
+        "option2": "Samundragupta",
+        "option3": "Harshavardhana",
+        "option4": "Ashoka",
+        "question": "Who is also known as Siladitya?",
+        "set_id": 18
+    },
+    {
+        "_id": 449,
+        "answer": 2,
+        "option1": "32nd Amendment",
+        "option2": "36th Amendment",
+        "option3": "40th Amendment",
+        "option4": "42nd Amendment",
+        "question": "Sikkim was made an integral part of India under the",
+        "set_id": 18
+    },
+    {
+        "_id": 450,
+        "answer": 3,
+        "option1": "1500",
+        "option2": "1600",
+        "option3": "1700",
+        "option4": "1800",
+        "question": "In which year did Murshid Quli Khan become the diwan of Bengal?",
+        "set_id": 18
+    },
+    {
+        "_id": 451,
+        "answer": 2,
+        "option1": "Central Bank of India",
+        "option2": "Reserve Bank of India",
+        "option3": "State Bank of India",
+        "option4": "Punjab National Bank",
+        "question": "Which organization performs central banking functions in India?",
+        "set_id": 19
+    },
+    {
+        "_id": 452,
+        "answer": 1,
+        "option1": "Chandragupta 1",
+        "option2": "Chandragupta 2",
+        "option3": "Skandagupta",
+        "option4": "Purugupta",
+        "question": "Who was the first Gupta ruler to assume the title of Maharajadhiraja?",
+        "set_id": 19
+    },
+    {
+        "_id": 453,
+        "answer": 4,
+        "option1": "Lothal",
+        "option2": "Chanhudaro",
+        "option3": "Bhagatrav",
+        "option4": "Dholavira",
+        "question": "Which was the largest Indian site of the Indus Valley Civilization?",
+        "set_id": 19
+    },
+    {
+        "_id": 454,
+        "answer": 3,
+        "option1": "Ashwins",
+        "option2": "Ghosha",
+        "option3": "Patanjali",
+        "option4": "Kakshivat",
+        "question": "Who wrote the Mahabhasya?",
+        "set_id": 19
+    },
+    {
+        "_id": 455,
+        "answer": 4,
+        "option1": "1948",
+        "option2": "1950",
+        "option3": "1952",
+        "option4": "1954",
+        "question": "When was Dadra and Nagar Haveli liberated from Portuguese rule?",
+        "set_id": 19
+    },
+    {
+        "_id": 456,
+        "answer": 3,
+        "option1": "2008",
+        "option2": "2010",
+        "option3": "2012",
+        "option4": "2014",
+        "question": "In which year was the Aam Aadmi Party formed?",
+        "set_id": 19
+    },
+    {
+        "_id": 457,
+        "answer": 2,
+        "option1": "Surat",
+        "option2": "Dehradun",
+        "option3": "Allahabad",
+        "option4": "Aurangabad",
+        "question": "Where is the HQ of the Oil and Natural Gas Commission in India?",
+        "set_id": 19
+    },
+    {
+        "_id": 458,
+        "answer": 3,
+        "option1": "Harappa",
+        "option2": "Kalibangan",
+        "option3": "Mohenjodaro",
+        "option4": "None of the above",
+        "question": "Where has the great bath of the Indus Valley Civilization been excavated?",
+        "set_id": 19
+    },
+    {
+        "_id": 459,
+        "answer": 4,
+        "option1": "Article 343",
+        "option2": "Article 352",
+        "option3": "Article 442",
+        "option4": "Article 368",
+        "question": "The procedure for amendment of the Constitution is laid down in",
+        "set_id": 19
+    },
+    {
+        "_id": 460,
+        "answer": 1,
+        "option1": "1972",
+        "option2": "1978",
+        "option3": "1980",
+        "option4": "1982",
+        "question": "In which year were the states of Manipur, Tripura & Meghalaya formed?",
+        "set_id": 19
+    },
+    {
+        "_id": 461,
+        "answer": 3,
+        "option1": "Humayun",
+        "option2": "Bahadur Shah",
+        "option3": "Jahandar Shah",
+        "option4": "Aurangzeb",
+        "question": "Which Mughal emperor abolished the Jaziya tax?",
+        "set_id": 19
+    },
+    {
+        "_id": 462,
+        "answer": 2,
+        "option1": "Bengaluru",
+        "option2": "Hyderabad",
+        "option3": "Pune",
+        "option4": "Kolkata",
+        "question": "Where is the National Police Academy located?",
+        "set_id": 19
+    },
+    {
+        "_id": 463,
+        "answer": 4,
+        "option1": "Yajur Veda",
+        "option2": "Rig Veda",
+        "option3": "Sama Veda",
+        "option4": "Atharva Veda",
+        "question": "Sabha and Samit have been called two daughters of Prajapati in",
+        "set_id": 19
+    },
+    {
+        "_id": 464,
+        "answer": 1,
+        "option1": "1957",
+        "option2": "1961",
+        "option3": "1965",
+        "option4": "1969",
+        "question": "In which year did India switched to the decimal system of coinage?",
+        "set_id": 19
+    },
+    {
+        "_id": 465,
+        "answer": 3,
+        "option1": "Kolkata",
+        "option2": "Delhi",
+        "option3": "Pune",
+        "option4": "Chennai",
+        "question": "Where is the National Institute of Virology situated?",
+        "set_id": 19
+    },
+    {
+        "_id": 466,
+        "answer": 1,
+        "option1": "1780-84 AD",
+        "option2": "1680-84 AD",
+        "option3": "1580-84 AD",
+        "option4": "1880-84 AD",
+        "question": "The second Anglo-Mysore war took place between",
+        "set_id": 19
+    },
+    {
+        "_id": 467,
+        "answer": 3,
+        "option1": "Rahim",
+        "option2": "Akbar",
+        "option3": "Abul Fazl",
+        "option4": "Aurangzeb",
+        "question": "Ain-e-Akbari was been written by",
+        "set_id": 19
+    },
+    {
+        "_id": 468,
+        "answer": 4,
+        "option1": "Samaj",
+        "option2": "Smriti",
+        "option3": "Sabha",
+        "option4": "Kula",
+        "question": "In Rig Vedic period, the basis of both social and political organization was",
+        "set_id": 19
+    },
+    {
+        "_id": 469,
+        "answer": 3,
+        "option1": "Sanskrit",
+        "option2": "Telugu",
+        "option3": "Pali",
+        "option4": "Tamil",
+        "question": "Katyayanaprakarna is a book on grammar of which language?",
+        "set_id": 19
+    },
+    {
+        "_id": 470,
+        "answer": 2,
+        "option1": "Mumbai",
+        "option2": "New Delhi",
+        "option3": "Kolkata",
+        "option4": "Bengaluru",
+        "question": "Where are the National Archives of India located?",
+        "set_id": 19
+    },
+    {
+        "_id": 471,
+        "answer": 1,
+        "option1": "Firoz Shah Tughlaq",
+        "option2": "Raziyat ud din Sultana",
+        "option3": "Qutbuddin Aitak",
+        "option4": "Aram Shah",
+        "question": "Which ruler founded the town of Fatehabad?",
+        "set_id": 19
+    },
+    {
+        "_id": 472,
+        "answer": 4,
+        "option1": "Mumbai",
+        "option2": "Vishakapatnam",
+        "option3": "Kanyakumari",
+        "option4": "Calcutta",
+        "question": "In which city was Swami Vivekananda born?",
+        "set_id": 19
+    },
+    {
+        "_id": 473,
+        "answer": 3,
+        "option1": "1565",
+        "option2": "1571",
+        "option3": "1581",
+        "option4": "1594",
+        "question": "In which year did Akbar proclaim a new religion- Din-e-Illahi? ",
+        "set_id": 19
+    },
+    {
+        "_id": 474,
+        "answer": 2,
+        "option1": "Kuwar Singh",
+        "option2": "Ahmadullah",
+        "option3": "Laxmi Bai",
+        "option4": "Bhagat Singh",
+        "question": "Who was the commander of the revolt of 1857 in Rohilkhand?",
+        "set_id": 19
+    },
+    {
+        "_id": 475,
+        "answer": 1,
+        "option1": "Andhra Pradesh",
+        "option2": "Uttar Pradesh",
+        "option3": "Bihar",
+        "option4": "Karnataka",
+        "question": "The Golconda Fort is located in which state?",
+        "set_id": 19
+    },
+    {
+        "_id": 476,
+        "answer": 2,
+        "option1": "1782-1805 AD",
+        "option2": "1782 -1789 AD",
+        "option3": "1772-1799 AD",
+        "option4": "1782-1790 AD",
+        "question": "Tipu Sultan was the ruler of Mysore from",
+        "set_id": 20
+    },
+    {
+        "_id": 477,
+        "answer": 4,
+        "option1": "Raja",
+        "option2": "Garuda",
+        "option3": "Deva",
+        "option4": "Airavata",
+        "question": "What is the name of the elephant which serves as mount of Lord Indra?",
+        "set_id": 20
+    },
+    {
+        "_id": 478,
+        "answer": 3,
+        "option1": "1743 AD",
+        "option2": "1720 AD",
+        "option3": "1707 AD",
+        "option4": "1727 AD",
+        "question": "The Mughal Emperor Aurangzeb died in which year?",
+        "set_id": 20
+    },
+    {
+        "_id": 479,
+        "answer": 2,
+        "option1": "Bengaluru",
+        "option2": "Chandigarh",
+        "option3": "Delhi",
+        "option4": "Shimla",
+        "question": "The famous Rock Garden is located in which city?",
+        "set_id": 20
+    },
+    {
+        "_id": 480,
+        "answer": 3,
+        "option1": "1935",
+        "option2": "1945",
+        "option3": "1949",
+        "option4": "1969",
+        "question": "In which year was Reserve Bank of India nationalized?",
+        "set_id": 20
+    },
+    {
+        "_id": 481,
+        "answer": 1,
+        "option1": "V.A. Smith",
+        "option2": "R.D. Banerjee",
+        "option3": "R.K. Mehta",
+        "option4": "K.R. Narayan",
+        "question": "Who wrote the book - 'Early History of India' in 1904?",
+        "set_id": 20
+    },
+    {
+        "_id": 482,
+        "answer": 2,
+        "option1": "6,50,000 sq. km",
+        "option2": "12,50,000 sq. km",
+        "option3": "8,50,000 sq. km",
+        "option4": "14,50,000 sq. km",
+        "question": "The Indus Valley civilization covered an area of",
+        "set_id": 20
+    },
+    {
+        "_id": 483,
+        "answer": 3,
+        "option1": "Gautam Buddha",
+        "option2": "Chaitanya",
+        "option3": "Mahavira Jain",
+        "option4": "Rishabhdev",
+        "question": "Who died at Pawapuri in 468 BC at the age of 72?",
+        "set_id": 20
+    },
+    {
+        "_id": 484,
+        "answer": 1,
+        "option1": "950-1300 AD",
+        "option2": "1200-1300 AD",
+        "option3": "1100-1300 AD",
+        "option4": "650-1300 AD",
+        "question": "The Chalukyas ruled over Gujarat from",
+        "set_id": 20
+    },
+    {
+        "_id": 485,
+        "answer": 4,
+        "option1": "1457",
+        "option2": "1600",
+        "option3": "1557",
+        "option4": "1657",
+        "question": "In which year was the Satnami sect founded in India?",
+        "set_id": 20
+    },
+    {
+        "_id": 486,
+        "answer": 3,
+        "option1": "2",
+        "option2": "3",
+        "option3": "4",
+        "option4": "5",
+        "question": "How many provinces did Shivaji Maharaj divide his kingdom into?",
+        "set_id": 20
+    },
+    {
+        "_id": 487,
+        "answer": 1,
+        "option1": "1911",
+        "option2": "1913",
+        "option3": "1915",
+        "option4": "1917",
+        "question": "The National Anthem of India was first sung in the year",
+        "set_id": 20
+    },
+    {
+        "_id": 488,
+        "answer": 2,
+        "option1": "Agni",
+        "option2": "Indra",
+        "option3": "Surya",
+        "option4": "Varuna",
+        "question": "Who among the following is regarded as a God of War in the Rigveda?",
+        "set_id": 20
+    },
+    {
+        "_id": 489,
+        "answer": 3,
+        "option1": "Akbar",
+        "option2": "Jahangir",
+        "option3": "Shahjahan",
+        "option4": "Aurangzeb",
+        "question": "Who built the Jama Masjid at Delhi?",
+        "set_id": 20
+    },
+    {
+        "_id": 490,
+        "answer": 4,
+        "option1": "Calcutta",
+        "option2": "Hyderabad",
+        "option3": "Bombay",
+        "option4": "Surat",
+        "question": "The Dutch established their first factory in India at",
+        "set_id": 20
+    },
+    {
+        "_id": 491,
+        "answer": 1,
+        "option1": "Tai-Ahom",
+        "option2": "Deori Tribe",
+        "option3": "Garo",
+        "option4": "Khasi",
+        "question": "Me-Dam-Me-Phi’ festival is a festival of which communities in NE India?",
+        "set_id": 20
+    },
+    {
+        "_id": 492,
+        "answer": 3,
+        "option1": "Agra",
+        "option2": "Jaipur",
+        "option3": "New Delhi",
+        "option4": "Ajmer",
+        "question": "The Qila Rai Pithora monument is located in which city?",
+        "set_id": 20
+    },
+    {
+        "_id": 493,
+        "answer": 2,
+        "option1": "Savitri",
+        "option2": "Mandavi",
+        "option3": "Urmila",
+        "option4": "Sita",
+        "question": "According to the Ramayana, who was Bharat's wife?",
+        "set_id": 20
+    },
+    {
+        "_id": 494,
+        "answer": 4,
+        "option1": "Assam",
+        "option2": "Himachal Pradesh",
+        "option3": "Uttarakhand",
+        "option4": "Sikkim",
+        "question": "Rumtek Monastery is located in which state?",
+        "set_id": 20
+    },
+    {
+        "_id": 495,
+        "answer": 3,
+        "option1": "Ashoka",
+        "option2": "Harshvardhana",
+        "option3": "Chandragupta Maurya",
+        "option4": "Kanishka",
+        "question": "Chanakya was the chief advisor of which ruler?",
+        "set_id": 20
+    },
+    {
+        "_id": 496,
+        "answer": 1,
+        "option1": "Painting",
+        "option2": "Dance",
+        "option3": "Sculpture",
+        "option4": "Architecture",
+        "question": "Kishangarh School of Rajasthan is famous for which of the following?",
+        "set_id": 20
+    },
+    {
+        "_id": 497,
+        "answer": 4,
+        "option1": "Aditya 1",
+        "option2": "Mahendra varmana I",
+        "option3": "Narsimhavarmana -I",
+        "option4": "Singh VIshnu",
+        "question": "The Varaha Temple at Mamallapuram was built by",
+        "set_id": 20
+    },
+    {
+        "_id": 498,
+        "answer": 2,
+        "option1": "Haryana",
+        "option2": "Rajasthan",
+        "option3": "Gujarat",
+        "option4": "Punjab",
+        "question": "Which state of India is associated with the folk dance Teratali?",
+        "set_id": 20
+    },
+    {
+        "_id": 499,
+        "answer": 3,
+        "option1": "Leh",
+        "option2": "Sikkim",
+        "option3": "Ladakh",
+        "option4": "Assam",
+        "question": "In which region is the heritage site Hemis Gompa is located in India?",
+        "set_id": 20
+    },
+    {
+        "_id": 500,
+        "answer": 1,
+        "option1": "Tamil",
+        "option2": "Telugu",
+        "option3": "Marathi",
+        "option4": "Malayalam",
+        "question": "Thaipusam festival is celebrated by which of the following communities?",
+        "set_id": 20
+    }
+]
